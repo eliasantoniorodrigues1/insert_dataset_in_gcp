@@ -1,0 +1,614 @@
+id,nome,marca,ano_modelo,cor,preco,preco_zero_km,km,endereco,cidade,uf,telefone,link,empresa,data_coleta
+181442,MOBI 1.0,FIAT,2021,,58870,,46215,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_uk1vn0oxma_49/p,Localiza,20220913211350
+181431,MOBI 1.0,FIAT,2021,,58370,,41647,,CURITIBA,PR,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_ukzxoue0nq_49/p,Localiza,20220913211350
+181385,MOBI 1.0,FIAT,2022,,59960,,35910,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2022_uk5gm0q1nw_49/p,Localiza,20220913211350
+181167,MOBI 1.0,FIAT,2022,,58490,,31334,,CURITIBA,PR,,https://portal.vtexcommercestable.com.br/fiat_mobi_2022_uk5gm0m2nw_49/p,Localiza,20220913211350
+179667,MOBI LIKE 1.0,FIAT,2020,,52120,,70760,,BELO HORIZONTE,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g70139_42/p,Localiza,20220913211350
+179504,MOBI LIKE 1.0,FIAT,2020,,51710,,80919,,CAMPINAS,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g23900_42/p,Localiza,20220913211350
+179340,MOBI LIKE 1.0,FIAT,2021,,57690,,72463,,CANOAS,RS,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h82382_42/p,Localiza,20220913211350
+179178,MOBI LIKE 1.0,FIAT,2021,,59600,,33884,,JOINVILLE,SC,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_630261_44/p,Localiza,20220913211350
+177873,MOBI LIKE 1.0,FIAT,2020,,51950,,74478,,ARARAQUARA,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g53108_42/p,Localiza,20220913211350
+176584,MOBI LIKE 1.0,FIAT,2021,,56890,,72512,,NATAL,RN,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_625155_44/p,Localiza,20220913211350
+176111,MOBI LIKE 1.0,FIAT,2020,,51790,,79053,,RIO DE JANEIRO,RJ,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g50619_42/p,Localiza,20220913211350
+174270,MOBI LIKE 1.0,FIAT,2021,,61030,,9480,,CURITIBA,PR,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_628195_44/p,Localiza,20220913211350
+173702,MOBI LIKE 1.0,FIAT,2021,,57960,,67530,,RIO DE JANEIRO,RJ,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h72494_42/p,Localiza,20220913211350
+173585,MOBI LIKE 1.0,FIAT,2021,,57700,,55258,,NATAL,RN,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_625164_44/p,Localiza,20220913211350
+173421,MOBI LIKE 1.0,FIAT,2021,,57320,,80350,,CAMPINAS,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h89637_42/p,Localiza,20220913211350
+173227,MOBI LIKE 1.0,FIAT,2020,,51790,,79677,,CONTAGEM,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g70116_42/p,Localiza,20220913211350
+173039,MOBI LIKE 1.0,FIAT,2021,,57510,,76470,,NATAL,RN,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_629195_44/p,Localiza,20220913211350
+172457,MOBI LIKE 1.0,FIAT,2021,,57070,,69380,,DUQUE DE CAXIAS,RJ,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h34035_42/p,Localiza,20220913211350
+172088,MOBI LIKE 1.0,FIAT,2021,,56260,,87520,,NATAL,RN,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_625166_44/p,Localiza,20220913211350
+172006,MOBI 1.0,FIAT,2021,,59940,,27578,,CONTAGEM,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_uk1yn0c1oq_49/p,Localiza,20220913211350
+171793,MOBI 1.0,FIAT,2021,,53460,,32593,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_ukzumei5na_49/p,Localiza,20220913211350
+171574,MOBI LIKE 1.0,FIAT,2020,,51540,,85100,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g57458_42/p,Localiza,20220913211350
+171043,MOBI LIKE 1.0,FIAT,2021,,58910,,30285,,UBERLÂNDIA,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_626512_44/p,Localiza,20220913211350
+170427,MOBI LIKE 1.0,FIAT,2021,,59680,,37999,,SALVADOR,BA,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_632616_44/p,Localiza,20220913211350
+161923,MOBI LIKE 1.0,FIAT,2021,,56780,,93099,,INDAIATUBA,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h56771_42/p,Localiza,20220913211350
+155304,MOBI LIKE 1.0,FIAT,2021,,56520,,81103,,CASCAVEL,PR,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h08381_42/p,Localiza,20220913211350
+181183,MOBI 1.0,FIAT,2020,,51490,,59995,,BRASILIA,DF,,https://portal.vtexcommercestable.com.br/fiat_mobi_2020_ukzumei3nq_49/p,Localiza,20220913211350
+180465,MOBI LIKE 1.0,FIAT,2021,,57690,,73152,,GRAVATAI,RS,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h83094_42/p,Localiza,20220913211350
+179668,MOBI LIKE 1.0,FIAT,2020,,51790,,78056,,GRAVATAI,RS,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g69881_42/p,Localiza,20220913211350
+178851,MOBI 1.0,FIAT,2020,,53100,,46119,,CONTAGEM,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_2020_ukzumee2mq_49/p,Localiza,20220913211350
+178387,MOBI LIKE 1.0,FIAT,2020,,51790,,78098,,SÃO LUÍS,MA,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g62582_42/p,Localiza,20220913211350
+181102,MOBI 1.0,FIAT,2021,,54990,,80478,,ANAPOLIS,GO,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_ukzxoegyoq_49/p,Localiza,20220913211350
+153173,MOBI LIKE 1.0,FIAT,2021,,56520,,81274,,UBERABA,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h08323_42/p,Localiza,20220913211350
+181074,MOBI 1.0,FIAT,2021,,55490,,29464,,CURITIBA,PR,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_uk1ankuzoq_49/p,Localiza,20220913211350
+180993,MOBI LIKE 1.0,FIAT,2020,,51950,,74092,,RECIFE,PE,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g57273_42/p,Localiza,20220913211350
+180786,MOBI LIKE 1.0,FIAT,2021,,56520,,81814,,RIBEIRAO PRETO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h33990_42/p,Localiza,20220913211350
+180727,MOBI LIKE 1.0,FIAT,2020,,51870,,76151,,MARÍLIA,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g70332_42/p,Localiza,20220913211350
+179746,MOBI LIKE 1.0,FIAT,2021,,56890,,73445,,RIBEIRAO PRETO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h04057_42/p,Localiza,20220913211350
+179493,MOBI LIKE 1.0,FIAT,2021,,56510,,99504,,PORTO ALEGRE,RS,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h86039_42/p,Localiza,20220913211350
+179054,MOBI LIKE 1.0,FIAT,2021,,57510,,77095,,SALVADOR,BA,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h59450_42/p,Localiza,20220913211350
+176713,MOBI LIKE 1.0,FIAT,2021,,56340,,84558,,BELÉM,PA,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h24140_42/p,Localiza,20220913211350
+175040,MOBI LIKE 1.0,FIAT,2021,,56890,,73398,,SAO JOSE,SC,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h05137_42/p,Localiza,20220913211350
+174563,MOBI LIKE 1.0,FIAT,2020,,51870,,77298,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g66324_42/p,Localiza,20220913211350
+172953,MOBI LIKE 1.0,FIAT,2020,,51710,,80652,,BELO HORIZONTE,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g62598_42/p,Localiza,20220913211350
+172782,MOBI LIKE 1.0,FIAT,2020,,51630,,82177,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g25012_42/p,Localiza,20220913211350
+171940,MOBI LIKE 1.0,FIAT,2020,,51630,,82788,,RIO DE JANEIRO,RJ,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g60085_42/p,Localiza,20220913211350
+171368,MOBI LIKE 1.0,FIAT,2020,,52030,,72189,,RIO DE JANEIRO,RJ,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g32889_42/p,Localiza,20220913211350
+180960,MOBI 1.0,FIAT,2021,,54990,,50442,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_uk1xm0ewoq_49/p,Localiza,20220913211350
+180945,MOBI 1.0,FIAT,2020,,51990,,34890,,RIO DE JANEIRO,RJ,,https://portal.vtexcommercestable.com.br/fiat_mobi_2020_ukzumeixnw_49/p,Localiza,20220913211350
+180932,MOBI 1.0,FIAT,2022,,58490,,33831,,BRASILIA,DF,,https://portal.vtexcommercestable.com.br/fiat_mobi_2022_uk5qm0u2oa_49/p,Localiza,20220913211350
+180902,MOBI 1.0,FIAT,2021,,54990,,50474,,MOGI DAS CRUZES,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_qkvrn0m1nq_49/p,Localiza,20220913211350
+177665,MOBI LIKE 1.0,FIAT,2021,,56890,,73412,,VITÓRIA,ES,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h49313_42/p,Localiza,20220913211350
+177655,MOBI 1.0,FIAT,2021,,58800,,30880,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_uk1loue2mq_49/p,Localiza,20220913211350
+172817,MOBI LIKE 1.0,FIAT,2020,,52200,,68448,,VITÓRIA DA CONQUISTA,BA,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2020_g13402_42/p,Localiza,20220913211350
+172142,MOBI 1.0,FIAT,2022,,58990,,27801,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2022_uk5mnuu5nq_49/p,Localiza,20220913211350
+160493,MOBI LIKE 1.0,FIAT,2021,,57140,,84492,,BELO HORIZONTE,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h82663_42/p,Localiza,20220913211350
+158839,MOBI LIKE 1.0,FIAT,2021,,57140,,85799,,BELO HORIZONTE,MG,,https://portal.vtexcommercestable.com.br/fiat_mobi_like_2021_h68282_42/p,Localiza,20220913211350
+172270,MOBI 1.0,FIAT,2021,,55990,,29337,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2021_uk1anemzoa_49/p,Localiza,20220913211350
+171995,MOBI 1.0,FIAT,2020,,53370,,41434,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2020_ukzkmkq2oa_49/p,Localiza,20220913211350
+171993,MOBI 1.0,FIAT,2020,,51990,,49045,,SAO PAULO,SP,,https://portal.vtexcommercestable.com.br/fiat_mobi_2020_ukztmum2nw_49/p,Localiza,20220913211350
+147749,MOBI,FIAT,2022,Cinza,67990,,16152,Rio de Janeiro - Estrada do Monteiro (C. Grande)/RJ,Rio de Janeiro,RJ,(21) 4042-1913,https://seminovos.unidas.com.br/storage/veiculos/685/147749/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-f59e6130c7174a55e163a5271ec056b9.jpg,Unidas,20220913211354
+147400,MOBI,FIAT,2022,Branco,58990,,23126,Santos - SP,Santos,SP,(13) 3513-3365,https://seminovos.unidas.com.br/storage/veiculos/825/147400/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-e47395470beb635ae781e1602202a07c.jpg,Unidas,20220913211354
+147593,MOBI,FIAT,2022,Vermelho,58990,,4837,Rio de Janeiro - Estrada do Monteiro (C. Grande)/RJ,Rio de Janeiro,RJ,(21) 4042-1913,https://seminovos.unidas.com.br/storage/veiculos/685/147593/fiat-mobi-vermelho-2021-1-0-evo-flex-like-manual-549f0efb29e21bc04fc7496c58631e2d.jpg,Unidas,20220913211354
+147594,MOBI,FIAT,2022,Cinza,58990,,9930,Rio de Janeiro - Estrada do Monteiro (C. Grande)/RJ,Rio de Janeiro,RJ,(21) 4042-1913,https://seminovos.unidas.com.br/storage/veiculos/685/147594/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-ce1bf9753626847b48b600942e8be1bc.jpg,Unidas,20220913211354
+140238,MOBI,FIAT,2022,Prata,58490,,39641,Belo Horizonte - Av. Carlos Luz/MG,Belo Horizonte,MG,(31) 4042-1176,https://seminovos.unidas.com.br/storage/veiculos/687/140238/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-5e9afd71f17472284b4e903d49ef0716.jpg,Unidas,20220913211354
+141105,MOBI,FIAT,2022,Branco,58490,,37790,Santo André - SP,Santo André,SP,114750-2879,https://seminovos.unidas.com.br/storage/veiculos/858/141105/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-2103dc475487c5f04ca9381aee0818cc.jpg,Unidas,20220913211354
+141748,MOBI,FIAT,2022,Branco,58490,,30871,Jaraguá do Sul - SC,Jaraguá do Sul,SC,(47) 3084-0200,https://seminovos.unidas.com.br/storage/veiculos/777/141748/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-1a032773736dbefea99edce66da2d097.jpg,Unidas,20220913211354
+142485,MOBI,FIAT,2022,Prata,58490,,33495,Santo André - SP,Santo André,SP,114750-2879,https://seminovos.unidas.com.br/storage/veiculos/858/142485/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-69828476304759f9a29b973bf32bfddf.jpg,Unidas,20220913211354
+143241,MOBI,FIAT,2022,Branco,58490,,40000,Goiânia - St. Marista/GO,Goiânia,GO,(62) 3773-2627,https://seminovos.unidas.com.br/storage/veiculos/665/143241/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-aa147080026782ded1915a2bd4dc6bf6.jpg,Unidas,20220913211354
+143259,MOBI,FIAT,2022,Prata,58490,,38810,Maceió - Cruz Das Almas/AL,Maceió,AL,(82) 3512-0910,https://seminovos.unidas.com.br/storage/veiculos/827/143259/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-82c874a1bb6a539441df11aae5903954.jpg,Unidas,20220913211354
+143960,MOBI,FIAT,2022,Prata,58490,,39641,Vitória da Conquista - BA,Vitória da Conquista,BA,(77) 3086-8772,https://seminovos.unidas.com.br/storage/veiculos/757/143960/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-3775ac477d240747af7c5867134e5a27.jpg,Unidas,20220913211354
+144606,MOBI,FIAT,2022,Prata,58490,,35000,Fortaleza - CE,Fortaleza,CE,(85) 3771-2642,https://seminovos.unidas.com.br/storage/veiculos/663/144606/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-198986c45edc9be6df2504e4e3c6f87c.jpg,Unidas,20220913211354
+145088,MOBI,FIAT,2022,Prata,58490,,35952,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/145088/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-1acae4ab47535bb07829eea84fda16c2.jpg,Unidas,20220913211354
+145746,MOBI,FIAT,2022,Branco,58490,,26000,Maceió - Cruz Das Almas/AL,Maceió,AL,(82) 3512-0910,https://seminovos.unidas.com.br/storage/veiculos/827/145746/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-77110f1e841c58a7c952e7897fb3aa1b.jpg,Unidas,20220913211354
+146379,MOBI,FIAT,2022,Prata,58490,,34071,Betim - MG,Betim,MG,(31) 3972-3860,https://seminovos.unidas.com.br/storage/veiculos/647/146379/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-7bffd1544bbd79abd098aff9a3e0cfc6.jpg,Unidas,20220913211354
+146661,MOBI,FIAT,2022,Branco,58490,,27147,Belo Horizonte - Av. Carlos Luz/MG,Belo Horizonte,MG,(31) 4042-1176,https://seminovos.unidas.com.br/storage/veiculos/687/146661/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-c6eab0d316059727bec94eb0a465ce18.jpg,Unidas,20220913211354
+146940,MOBI,FIAT,2022,Cinza,58490,,27997,Sorocaba - SP,Sorocaba,SP,(15) 32177428,https://seminovos.unidas.com.br/storage/veiculos/721/146940/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-563f8ff50454440067143c636236ee9b.jpg,Unidas,20220913211354
+147335,MOBI,FIAT,2022,Prata,58490,,26490,Ponta Grossa - PR,Ponta Grossa,PR,(42) 3026-8462,https://seminovos.unidas.com.br/storage/veiculos/709/147335/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-ddc0159b786618b8e102a71d8ad0d079.jpg,Unidas,20220913211354
+147534,MOBI,FIAT,2022,Branco,58490,,27147,Goiânia - St. Marista/GO,Goiânia,GO,(62) 3773-2627,https://seminovos.unidas.com.br/storage/veiculos/665/147534/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-21beafbb1030329017c5e08a12bc0b79.jpg,Unidas,20220913211354
+147005,MOBI,FIAT,2022,Prata,57990,,47101,Várzea Grande - MT,Várzea Grande,MT,(65) 3684-8484,https://seminovos.unidas.com.br/storage/veiculos/769/147005/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-5f8da05c01360915f8fc61c8146d3e6d.jpg,Unidas,20220913211354
+147291,MOBI,FIAT,2022,Prata,57990,,55960,Belo Horizonte - Av. Barão Homem de Melo/MG,Belo Horizonte,MG,(31) 2116-1497,https://seminovos.unidas.com.br/storage/veiculos/677/147291/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-2e4c1579a4b85bfe3f3611d61ba0f1f0.jpg,Unidas,20220913211354
+147887,MOBI,FIAT,2022,Prata,57990,,47625,Belo Horizonte - Av. Barão Homem de Melo/MG,Belo Horizonte,MG,(31) 2116-1497,https://seminovos.unidas.com.br/storage/veiculos/677/147887/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-a2969de4d504c567c6d88f6f9c781271.jpg,Unidas,20220913211354
+148861,MOBI,FIAT,2022,Branco,57990,,54668,São Luis - MA,São Luis,MA,(98) 3042-0720,https://seminovos.unidas.com.br/storage/veiculos/745/148861/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-e964db24a9cf706a13b79f8f960f592b.jpg,Unidas,20220913211354
+140725,MOBI,FIAT,2021,Vermelho,55990,,21615,Canoas - RS,Canoas,RS,(51) 3103-9763,https://seminovos.unidas.com.br/storage/veiculos/771/140725/fiat-mobi-vermelho-2021-1-0-evo-flex-like-manual-a2dfaa83c9045a5ec2d8631f6664929a.jpg,Unidas,20220913211354
+146148,MOBI,FIAT,2021,Branco,55990,,19277,Maceió - Fernandes Lima/AL,Maceió,AL,(82) 3142-0424,https://seminovos.unidas.com.br/storage/veiculos/725/146148/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-303fed753ccc86c063fcfc391dfa5327.jpg,Unidas,20220913211354
+141025,MOBI,FIAT,2021,Vermelho,55490,,31536,Ribeirão Preto - SP,Ribeirão Preto,SP,(16) 3512-7632,https://seminovos.unidas.com.br/storage/veiculos/739/141025/fiat-mobi-vermelho-2021-1-0-evo-flex-like-manual-fa9048390c78dc0520d0fae4960a932b.jpg,Unidas,20220913211354
+143920,MOBI,FIAT,2021,Cinza,55490,,36345,São Bernardo do Campo - SBC A (Faria Lima)/SP,São Bernardo do Campo,SP,(11) 3504-5969,https://seminovos.unidas.com.br/storage/veiculos/717/143920/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-799764d9a08d658ddb7cf5ea74a56174.jpg,Unidas,20220913211354
+143979,MOBI,FIAT,2021,Cinza,55490,,34262,Vitória da Conquista - BA,Vitória da Conquista,BA,(77) 3086-8772,https://seminovos.unidas.com.br/storage/veiculos/757/143979/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-ac7f05477c7bc8c674295eefa90d7e47.jpg,Unidas,20220913211354
+144262,MOBI,FIAT,2021,Prata,55490,,35440,Mauá - SP,Mauá,SP,(11) 4130-3936,https://seminovos.unidas.com.br/storage/veiculos/723/144262/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-eb8317a24a8ebee7d776361f7f966924.jpg,Unidas,20220913211354
+144612,MOBI,FIAT,2021,Prata,55490,,31000,Fortaleza - CE,Fortaleza,CE,(85) 3771-2642,https://seminovos.unidas.com.br/storage/veiculos/663/144612/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-13be8e58309ae18c560765490429553a.jpg,Unidas,20220913211354
+144767,MOBI,FIAT,2021,Cinza,55490,,32916,Duque de Caxias - RJ,Duque de Caxias,RJ,(21) 3500-8185,https://seminovos.unidas.com.br/storage/veiculos/655/144767/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-58e994e474ddc8b51540033fd72c26cc.jpg,Unidas,20220913211354
+145146,MOBI,FIAT,2021,Prata,55490,,30540,Taboão da Serra - SP,Taboão da Serra,SP,(11) 3500-5935,https://seminovos.unidas.com.br/storage/veiculos/751/145146/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-82ffa7e4042c552db52109526db4bdc0.jpg,Unidas,20220913211354
+145230,MOBI,FIAT,2021,Cinza,55490,,39059,Uberlândia - MG,Uberlândia,MG,(34) 3218-4608,https://seminovos.unidas.com.br/storage/veiculos/755/145230/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-4ec7009ec81275a69a13b8ac255f2bb4.jpg,Unidas,20220913211354
+145231,MOBI,FIAT,2021,Vermelho,55490,,37710,Uberlândia - MG,Uberlândia,MG,(34) 3218-4608,https://seminovos.unidas.com.br/storage/veiculos/755/145231/fiat-mobi-vermelho-2021-1-0-evo-flex-like-manual-c02df5f37763de1c389ccd9fd46d51e8.jpg,Unidas,20220913211354
+145250,MOBI,FIAT,2021,Prata,55490,,35645,Vitória - ES,Vitória,ES,(27) 3441-0240,https://seminovos.unidas.com.br/storage/veiculos/759/145250/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-6660d595e8d45402121e919d50908e21.jpg,Unidas,20220913211354
+145317,MOBI,FIAT,2021,Cinza,55490,,34768,Porto Alegre - RS,Porto Alegre,RS,(51) 3103-9418,https://seminovos.unidas.com.br/storage/veiculos/813/145317/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-a47734a5b1be7e510537b19b6875b4c6.jpg,Unidas,20220913211354
+145384,MOBI,FIAT,2021,Prata,55490,,27918,Salvador - BA,Salvador,BA,(71) 3512-2693,https://seminovos.unidas.com.br/storage/veiculos/819/145384/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-c2ac987f00da753a11f2a360d2fb4f1f.jpg,Unidas,20220913211354
+145479,MOBI,FIAT,2021,Prata,55490,,27563,João Pessoa - PB,João pessoa,PB,(83) 3113-1213,https://seminovos.unidas.com.br/storage/veiculos/871/145479/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-a3cbf7ff4c92f50e5ddea9afb25d9688.jpg,Unidas,20220913211354
+145931,MOBI,FIAT,2021,Vermelho,55490,,33000,Uberlândia - MG,Uberlândia,MG,(34) 3218-4608,https://seminovos.unidas.com.br/storage/veiculos/755/145931/fiat-mobi-vermelho-2021-1-0-evo-flex-like-manual-391e76a7c9eba3b5cf5c214d76a6dcd0.jpg,Unidas,20220913211354
+146383,MOBI,FIAT,2021,Cinza,55490,,26700,Salvador - BA,Salvador,BA,(71) 3512-2693,https://seminovos.unidas.com.br/storage/veiculos/819/146383/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-79ae1cea4f61ea05662a22bcae610f4e.jpg,Unidas,20220913211354
+146662,MOBI,FIAT,2021,Prata,55490,,30265,Belo Horizonte - Av. Carlos Luz/MG,Belo Horizonte,MG,(31) 4042-1176,https://seminovos.unidas.com.br/storage/veiculos/687/146662/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-271a04ba0b27f8996c7bf04ae75b3a43.jpg,Unidas,20220913211354
+146671,MOBI,FIAT,2021,Cinza,55490,,38009,São Paulo - Joaquina Ramalho/SP,São Paulo,SP,(11) 3230-1697,https://seminovos.unidas.com.br/storage/veiculos/699/146671/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-070d9a97a633133be918d1f54b00a182.jpg,Unidas,20220913211354
+146834,MOBI,FIAT,2021,Prata,55490,,32467,São Paulo - Aricanduva/SP,São Paulo,SP,(11) 4750-1149,https://seminovos.unidas.com.br/storage/veiculos/861/146834/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-7a3d9cceb2ea7cba9509b7b9a108a2ac.jpg,Unidas,20220913211354
+146941,MOBI,FIAT,2021,Cinza,55490,,32874,Sorocaba - SP,Sorocaba,SP,(15) 32177428,https://seminovos.unidas.com.br/storage/veiculos/721/146941/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-68eaed5cf10d87817720035f46c55287.jpg,Unidas,20220913211354
+147091,MOBI,FIAT,2021,Prata,55490,,35440,São Paulo - Guaianazes/SP,São Paulo,SP,(11) 4130-3930,https://seminovos.unidas.com.br/storage/veiculos/761/147091/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-a84652c180278c933066548adee8b2f5.jpg,Unidas,20220913211354
+147117,MOBI,FIAT,2021,Prata,55490,,30540,Americana - SP,Americana,SP,(19) 3512-1921,https://seminovos.unidas.com.br/storage/veiculos/629/147117/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-9b3629675ff4709ac36bce4c314350bc.jpg,Unidas,20220913211354
+147485,MOBI,FIAT,2021,Prata,55490,,34622,Santos - SP,Santos,SP,(13) 3513-3365,https://seminovos.unidas.com.br/storage/veiculos/825/147485/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-fdc617088f3dbc932368f7fa7d7e873a.jpg,Unidas,20220913211354
+147508,MOBI,FIAT,2021,Cinza,55490,,30000,São Paulo - Aricanduva/SP,São Paulo,SP,(11) 4750-1149,https://seminovos.unidas.com.br/storage/veiculos/861/147508/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-04cf6a07a0ff3e1392fc2e8518335c42.jpg,Unidas,20220913211354
+148008,MOBI,FIAT,2021,Cinza,55490,,27040,Maceió - Cruz Das Almas/AL,Maceió,AL,(82) 3512-0910,https://seminovos.unidas.com.br/storage/veiculos/827/148008/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-a1febf9761983fc60e9938b6be5120dd.jpg,Unidas,20220913211354
+148335,MOBI,FIAT,2021,Cinza,55490,,38009,São Paulo - São Miguel (Vila Norma)/SP,São Paulo,SP,(11) 3508-6081,https://seminovos.unidas.com.br/storage/veiculos/719/148335/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-b00157a2ac92635b485d070b2ecb032f.jpg,Unidas,20220913211354
+148407,MOBI,FIAT,2021,Prata,55490,,27563,Recife - PE,Recife,PE,(81) 3771-2900,https://seminovos.unidas.com.br/storage/veiculos/735/148407/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-893d9ddb3ac7b6dcbfa88ca61797e47a.jpg,Unidas,20220913211354
+148989,MOBI,FIAT,2021,Preto,55490,,31340,Lauro de Freitas - BA,Lauro de Freitas,BA,(71) 3512-3731,https://seminovos.unidas.com.br/storage/veiculos/833/148989/fiat-mobi-preto-2021-1-0-evo-flex-like-manual-9b3021b29fa1757865bef47ed048f451.jpg,Unidas,20220913211354
+148997,MOBI,FIAT,2021,Cinza,55490,,37399,Lauro de Freitas - BA,Lauro de Freitas,BA,(71) 3512-3731,https://seminovos.unidas.com.br/storage/veiculos/833/148997/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-0e6cb89722eff9529c8b75c655577de6.jpg,Unidas,20220913211354
+143746,MOBI,FIAT,2021,Cinza,54990,,40487,Ribeirão Preto - SP,Ribeirão Preto,SP,(16) 3512-7632,https://seminovos.unidas.com.br/storage/veiculos/739/143746/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-9dbc5fcc99c7f384fef944ef781327d6.jpg,Unidas,20220913211354
+143900,MOBI,FIAT,2021,Cinza,54990,,42000,Maceió - Fernandes Lima/AL,Maceió,AL,(82) 3142-0424,https://seminovos.unidas.com.br/storage/veiculos/725/143900/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-baba8efdf34a7aa2b99aebf8128e5b32.jpg,Unidas,20220913211354
+145371,MOBI,FIAT,2021,Prata,54990,,41341,Salvador - BA,Salvador,BA,(71) 3512-2693,https://seminovos.unidas.com.br/storage/veiculos/819/145371/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-c41759c8608c2ffca2156fbcf6e0f319.jpg,Unidas,20220913211354
+146206,MOBI,FIAT,2021,Cinza,54990,,55150,Guarapuava - PR,Guarapuava,PR,(42) 3624-0150,https://seminovos.unidas.com.br/storage/veiculos/775/146206/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-d0b8b40c9b7401a9d32b72e66c4c976c.jpg,Unidas,20220913211354
+146327,MOBI,FIAT,2021,Cinza,54990,,51461,Belo Horizonte - Av. Barão Homem de Melo/MG,Belo Horizonte,MG,(31) 2116-1497,https://seminovos.unidas.com.br/storage/veiculos/677/146327/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-5c9cdd972754781f2ba4823282916a3c.jpg,Unidas,20220913211354
+146850,MOBI,FIAT,2021,Cinza,54990,,55150,Pato Branco - PR,Pato Branco,PR,(46) 3223-5653,https://seminovos.unidas.com.br/storage/veiculos/789/146850/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-17f98ef4ae12570d0fd942045d94694d.jpg,Unidas,20220913211354
+147230,MOBI,FIAT,2021,Prata,54990,,54639,Belo Horizonte - Av. Carlos Luz/MG,Belo Horizonte,MG,(31) 4042-1176,https://seminovos.unidas.com.br/storage/veiculos/687/147230/fiat-mobi-branco-2021-1-0-evo-flex-like-manual-443c8fbd4d1ddcb1d93c38f19df72949.jpg,Unidas,20220913211354
+147292,MOBI,FIAT,2021,Cinza,54990,,60083,Belo Horizonte - Av. Barão Homem de Melo/MG,Belo Horizonte,MG,(31) 2116-1497,https://seminovos.unidas.com.br/storage/veiculos/677/147292/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-237305cfb1b93461784492330c62d4d2.jpg,Unidas,20220913211354
+147293,MOBI,FIAT,2021,Cinza,54990,,44636,João Pessoa - PB,João pessoa,PB,(83) 3113-1213,https://seminovos.unidas.com.br/storage/veiculos/871/147293/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-991f964ab8808a9900354bb1f1ff6219.jpg,Unidas,20220913211354
+147383,MOBI,FIAT,2021,Preto,54990,,56334,Americana - SP,Americana,SP,(19) 3512-1921,https://seminovos.unidas.com.br/storage/veiculos/629/147383/fiat-mobi-preto-2020-1-0-evo-flex-like-manual-3b71df1780b7009c9fa0ecc717c42289.jpg,Unidas,20220913211354
+147804,MOBI,FIAT,2021,Prata,54990,,43093,Maceió - Fernandes Lima/AL,Maceió,AL,(82) 3142-0424,https://seminovos.unidas.com.br/storage/veiculos/725/147804/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-cc09785a13699be127c8aec200da9595.jpg,Unidas,20220913211354
+148040,MOBI,FIAT,2021,Prata,54990,,50003,Uberlândia - MG,Uberlândia,MG,(34) 3218-4608,https://seminovos.unidas.com.br/storage/veiculos/755/148040/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-8f6fa108731aa8533d8af6b090368aa2.jpg,Unidas,20220913211354
+148310,MOBI,FIAT,2021,Prata,54990,,40873,Recife - PE,Recife,PE,(81) 3771-2900,https://seminovos.unidas.com.br/storage/veiculos/735/148310/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-83ce9ae9ec4e931505d7b3a3d0a16c1e.jpg,Unidas,20220913211354
+148339,MOBI,FIAT,2021,Cinza,54990,,60083,Betim - MG,Betim,MG,(31) 3972-3860,https://seminovos.unidas.com.br/storage/veiculos/647/148339/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-26cee275c72687875e4cf9f222f6b1bf.jpg,Unidas,20220913211354
+148377,MOBI,FIAT,2021,Prata,54990,,40873,João Pessoa - PB,João pessoa,PB,(83) 3113-1213,https://seminovos.unidas.com.br/storage/veiculos/871/148377/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-dd133bf0ed9138804e26ef846e17c694.jpg,Unidas,20220913211354
+148408,MOBI,FIAT,2021,Cinza,54990,,44636,Recife - PE,Recife,PE,(81) 3771-2900,https://seminovos.unidas.com.br/storage/veiculos/735/148408/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-9f06db36f08be0cdbf51baa12dcdbec3.jpg,Unidas,20220913211354
+148524,MOBI,FIAT,2021,Cinza,54990,,53001,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/148524/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-aa04481f3ed71b2a58c04a2cabc8c7e6.jpg,Unidas,20220913211354
+148541,MOBI,FIAT,2021,Prata,54990,,52211,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/148541/fiat-mobi-prata-2021-1-0-evo-flex-like-manual-2c8c400e663ed2edc44fec89b7034ff3.jpg,Unidas,20220913211354
+148572,MOBI,FIAT,2021,Preto,54990,,40003,Osasco - Av. dos Autonomistas/SP,Osasco,SP,(11) 4280-7957,https://seminovos.unidas.com.br/storage/veiculos/635/148572/fiat-mobi-roxo-2020-1-0-evo-flex-like-manual-09ec689571bbffbe4c83d253f8fbda7e.jpg,Unidas,20220913211354
+148727,MOBI,FIAT,2021,Prata,54990,,43393,Campo Grande - Av. Bandeirantes/MS,Campo Grande,MS,(67) 4042-1139,https://seminovos.unidas.com.br/storage/veiculos/831/148727/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-12f375b3de50f22a3ed635ad1daa6b83.jpg,Unidas,20220913211354
+149004,MOBI,FIAT,2021,Cinza,54990,,53658,Taboão da Serra - SP,Taboão da Serra,SP,(11) 3500-5935,https://seminovos.unidas.com.br/storage/veiculos/751/149004/fiat-mobi-cinza-2021-1-0-evo-flex-like-manual-6e8980621b5fce2c7cf6e7a8229dc11d.jpg,Unidas,20220913211354
+147821,MOBI,FIAT,2022,Preto,52990,,71083,Lauro de Freitas - BA,Lauro de Freitas,BA,(71) 3512-3731,https://seminovos.unidas.com.br/storage/veiculos/833/147821/fiat-mobi-preto-2021-1-0-evo-flex-easy-manual-c095e96ff7dcde63f9e647cbc04c70c4.jpg,Unidas,20220913211354
+147506,MOBI,FIAT,2020,Preto,52490,,17118,Lauro de Freitas - BA,Lauro de Freitas,BA,(71) 3512-3731,https://seminovos.unidas.com.br/storage/veiculos/833/147506/fiat-mobi-preto-2019-1-0-evo-flex-like-manual-fcb6fb9286d081cf0d1ee0abd2ac64ad.jpg,Unidas,20220913211354
+147523,MOBI,FIAT,2020,Preto,52490,,8932,Rio de Janeiro - Estrada do Monteiro (C. Grande)/RJ,Rio de Janeiro,RJ,(21) 4042-1913,https://seminovos.unidas.com.br/storage/veiculos/685/147523/fiat-mobi-preto-2019-1-0-evo-flex-like-manual-c7240d1ff95366eb5f1ed69f6e94d593.jpg,Unidas,20220913211354
+148588,MOBI,FIAT,2020,Preto,52490,,19970,Lauro de Freitas - BA,Lauro de Freitas,BA,(71) 3512-3731,https://seminovos.unidas.com.br/storage/veiculos/833/148588/fiat-mobi-preto-2019-1-0-evo-flex-like-manual-ccdca85bf8322c046081c35f8cfff8cb.jpg,Unidas,20220913211354
+145283,MOBI,FIAT,2020,Branco,51990,,32612,Joinville - SC,Joinville,SC,(47) 3512-2708,https://seminovos.unidas.com.br/storage/veiculos/805/145283/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-62336ff26a3640e7769ee3276822855c.jpg,Unidas,20220913211354
+146363,MOBI,FIAT,2020,Vermelho,51990,,30221,Betim - MG,Betim,MG,(31) 3972-3860,https://seminovos.unidas.com.br/storage/veiculos/647/146363/fiat-mobi-vermelho-2019-1-0-evo-flex-like-manual-6abfcfe39285f4e9efa55bcb388ba739.jpg,Unidas,20220913211354
+146790,MOBI,FIAT,2020,Branco,51990,,33329,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/146790/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-bcfe77ddeb153e24b83ccc74adc33721.jpg,Unidas,20220913211354
+146791,MOBI,FIAT,2020,Prata,51990,,27943,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/146791/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-dc76dd3f3899752512319b1cbd62e6e3.jpg,Unidas,20220913211354
+147297,MOBI,FIAT,2020,Prata,51990,,37822,São José dos Campos - SP,São Jose dos Campos,SP,(12) 3042-1920,https://seminovos.unidas.com.br/storage/veiculos/743/147297/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-af5c680fdcd4524fafabba3574c55f1c.jpg,Unidas,20220913211354
+148273,MOBI,FIAT,2020,Cinza,51990,,37900,São Paulo - Aricanduva/SP,São Paulo,SP,(11) 4750-1149,https://seminovos.unidas.com.br/storage/veiculos/861/148273/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-958b3a9cd9e070ae977d582b5dd45d82.jpg,Unidas,20220913211354
+149049,MOBI,FIAT,2020,Branco,51990,,33329,Vitória - ES,Vitória,ES,(27) 3441-0240,https://seminovos.unidas.com.br/storage/veiculos/759/149049/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-945a0579593f7d7a4763fdd58adf4858.jpg,Unidas,20220913211354
+142176,MOBI,FIAT,2020,Branco,51490,,47889,São Bernardo do Campo - SBC A (Faria Lima)/SP,São Bernardo do Campo,SP,(11) 3504-5969,https://seminovos.unidas.com.br/storage/veiculos/717/142176/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-af2abb16d2eccb8eeec3954258342514.jpg,Unidas,20220913211354
+143540,MOBI,FIAT,2020,Branco,51490,,51174,São Paulo - Joaquina Ramalho/SP,São Paulo,SP,(11) 3230-1697,https://seminovos.unidas.com.br/storage/veiculos/699/143540/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-56027295a099b8efa4930b06d17c0d7e.jpg,Unidas,20220913211354
+143628,MOBI,FIAT,2020,Branco,51490,,45147,Ponta Grossa - PR,Ponta Grossa,PR,(42) 3026-8462,https://seminovos.unidas.com.br/storage/veiculos/709/143628/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-38b707e2368b862b02a9442e80ca41a9.jpg,Unidas,20220913211354
+144111,MOBI,FIAT,2020,Cinza,51490,,43000,São José do Rio Preto - Av. Bady Bassitt/SP,São José do Rio Preto,SP,(17) 3042-0390,https://seminovos.unidas.com.br/storage/veiculos/749/144111/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-0ef041b2463d13c76c6f29b6f046601c.jpg,Unidas,20220913211354
+144660,MOBI,FIAT,2020,Cinza,51490,,48772,Belo Horizonte - Av. Barão Homem de Melo/MG,Belo Horizonte,MG,(31) 2116-1497,https://seminovos.unidas.com.br/storage/veiculos/677/144660/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-104a6722dbaaceb71cb2b87f26fbeea2.jpg,Unidas,20220913211354
+144776,MOBI,FIAT,2020,Vermelho,51490,,40049,Duque de Caxias - RJ,Duque de Caxias,RJ,(21) 3500-8185,https://seminovos.unidas.com.br/storage/veiculos/655/144776/fiat-mobi-vermelho-2020-1-0-evo-flex-like-manual-b819ec85fdd9655893008a9bff1b56f9.jpg,Unidas,20220913211354
+144880,MOBI,FIAT,2020,Vermelho,51490,,45112,Mesquita - RJ,Mesquita,RJ,(21) 3513-8482,https://seminovos.unidas.com.br/storage/veiculos/727/144880/fiat-mobi-vermelho-2020-1-0-evo-flex-like-manual-60dece4c8f3feef9f5da824944957d65.jpg,Unidas,20220913211354
+145106,MOBI,FIAT,2020,Branco,51490,,80000,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/145106/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-a50bde4aab1701579caf22713228b59c.jpg,Unidas,20220913211354
+145169,MOBI,FIAT,2021,Preto,51490,,46893,Taboão da Serra - SP,Taboão da Serra,SP,(11) 3500-5935,https://seminovos.unidas.com.br/storage/veiculos/751/145169/fiat-mobi-preto-2020-1-0-evo-flex-like-manual-a128bf7ff5668e85d657a26e691e5c25.jpg,Unidas,20220913211354
+145255,MOBI,FIAT,2020,Branco,51490,,40244,Vitória - ES,Vitória,ES,(27) 3441-0240,https://seminovos.unidas.com.br/storage/veiculos/759/145255/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-a8f040e2062d8b88177c109063a30a26.jpg,Unidas,20220913211354
+145842,MOBI,FIAT,2020,Preto,51490,,41628,Rio de Janeiro - Estrada do Monteiro (C. Grande)/RJ,Rio de Janeiro,RJ,(21) 4042-1913,https://seminovos.unidas.com.br/storage/veiculos/685/145842/fiat-mobi-preto-2019-1-0-evo-flex-like-manual-df0c611eff3ce06681666570c67fef8c.jpg,Unidas,20220913211354
+146885,MOBI,FIAT,2020,Prata,51490,,51758,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/146885/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-8908c39181b093a96b6e0fe9ea7c1b66.jpg,Unidas,20220913211354
+146902,MOBI,FIAT,2020,Cinza,51490,,65051,São Paulo - São Miguel (Vila Rio Branco)/SP,São Paulo,SP,(11) 4280-4505,https://seminovos.unidas.com.br/storage/veiculos/747/146902/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-521c02cc60634ce6ea630e25d27e1be3.jpg,Unidas,20220913211354
+147974,MOBI,FIAT,2020,Prata,51490,,58123,Uberlândia - MG,Uberlândia,MG,(34) 3218-4608,https://seminovos.unidas.com.br/storage/veiculos/755/147974/fiat-mobi-prata-2020-1-0-evo-flex-like-manual-c60f4178c14ad18b20343b14a6115c65.jpg,Unidas,20220913211354
+148209,MOBI,FIAT,2020,Branco,51490,,56897,Guarapuava - PR,Guarapuava,PR,(42) 3624-0150,https://seminovos.unidas.com.br/storage/veiculos/775/148209/fiat-mobi-branco-2019-1-0-evo-flex-like-manual-08f74b81c3696b1137e508e7e90ec96c.jpg,Unidas,20220913211354
+148851,MOBI,FIAT,2020,Cinza,51490,,43000,Pato Branco - PR,Pato Branco,PR,(46) 3223-5653,https://seminovos.unidas.com.br/storage/veiculos/789/148851/fiat-mobi-cinza-2020-1-0-evo-flex-like-manual-dce339a7b3b2e09c9b9ad58bfef50299.jpg,Unidas,20220913211354
+148894,MOBI,FIAT,2020,Branco,51490,,56897,Pato Branco - PR,Pato Branco,PR,(46) 3223-5653,https://seminovos.unidas.com.br/storage/veiculos/789/148894/fiat-mobi-branco-2020-1-0-evo-flex-like-manual-1ccada2c223d0d2dba95db5f78b8a1a3.jpg,Unidas,20220913211354
+1296321,Mobi,Fiat,2020,Branco,50930.00,40790.00,49500,,Florianópolis,SC,,,Movida,20220913211639
+1288445,Mobi,Fiat,2020,Branco,50930.00,40790.00,46302,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288445/574179_751ae6ef92559201d1a479f53208e3b0.jpg,Movida,20220913211639
+1296275,Mobi,Fiat,2020,Preto,50930.00,40790.00,53928,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296275/651289_8bfba7ebd3bb0c60f73d8764a7d5e962.jpg,Movida,20220913211639
+1284762,Mobi,Fiat,2020,Preto,50930.00,40790.00,54523,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1284762/644450_6ab10a8ec137b3075e79b8c06a043bd0.jpeg,Movida,20220913211639
+1272392,Mobi,Fiat,2020,Cinza,50930.00,40790.00,57001,,Santo André,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1272392/651632_7795397a2b00b4408847d973fb2a0ec6.jpeg,Movida,20220913211639
+1294606,Mobi,Fiat,2020,Cinza,50930.00,40790.00,59402,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294606/649749_34b03d65c78ff48cda7f6d1dd1a00ad2.jpg,Movida,20220913211639
+1294587,Mobi,Fiat,2020,Cinza,50930.00,40790.00,46810,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294587/653257_00e9b85fa8184c19708dc52b00ab9ed0.jpg,Movida,20220913211639
+1273786,Mobi,Fiat,2020,Cinza,50930.00,40790.00,47408,,Feira de Santana,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1273786/605876_e162bbcc88dd94c02e1677f1c761a758.jpg,Movida,20220913211639
+1294187,Mobi,Fiat,2020,Vermelho,50930.00,40790.00,45321,,Ribeirão Preto,SP,,,Movida,20220913211639
+1272156,Mobi,Fiat,2020,Branco,50930.00,40790.00,54524,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1272156/580274_442cd3de8b6e614830165bc42d99f506.jpeg,Movida,20220913211639
+1296855,Mobi,Fiat,2020,Cinza,50930.00,40790.00,48553,,Anápolis,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296855/612211_a3547cff85eab174d4e5d845a5541af7.jpg,Movida,20220913211639
+1297150,Mobi,Fiat,2020,Cinza,50930.00,40790.00,54374,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1297150/614254_60a1b82936afbd9f6cfcea797d7ab65a.jpg,Movida,20220913211639
+1297248,Mobi,Fiat,2020,Vermelho,50930.00,40790.00,49628,,Campinas,SP,,,Movida,20220913211639
+1297593,Mobi,Fiat,2020,Prata,50930.00,40790.00,55564,,Guarulhos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1297593/653196_62c6fcaa9574f400658ccddd4b175801.jpg,Movida,20220913211639
+1289211,Mobi,Fiat,2020,Preto,51190.00,40790.00,44408,,Blumenau,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289211/644456_40f86604a871d38a708474164da15017.jpeg,Movida,20220913211639
+1270551,Mobi,Fiat,2020,Branco,51190.00,40790.00,36377,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1270551/586802_3828fa5d6045a9b92c8607f55b7b0436.jpg,Movida,20220913211639
+1289940,Mobi,Fiat,2020,Cinza,51720.00,40790.00,40555,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289940/653182_68a6718b002fe459ed4fe2827ac5fd53.jpeg,Movida,20220913211639
+1249546,Mobi,Fiat,2020,Branco,51720.00,40790.00,42001,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1249546/655651_2b0ca90bd02dbd450a67c2c33e105a7f.jpg,Movida,20220913211639
+1288768,Mobi,Fiat,2020,Preto,51720.00,40790.00,37533,,Feira de Santana,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288768/593465_7be05da78d260b523729783d7b728c09.jpeg,Movida,20220913211639
+1260530,Mobi,Fiat,2020,Branco,51720.00,40790.00,40000,,Anápolis,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1260530/561446_10ad2eba72af57ef6123d7037a445080.jpg,Movida,20220913211639
+1292125,Mobi,Fiat,2020,Branco,51720.00,40790.00,42560,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292125/646036_6841b48f3f5dcb87a2b98b69c1291bda.jpg,Movida,20220913211639
+1292453,Mobi,Fiat,2020,Branco,51720.00,40790.00,43160,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292453/611503_7a1bc9a6a713d03ae888463faab8610e.jpeg,Movida,20220913211639
+1289364,Mobi,Fiat,2020,Branco,51720.00,40790.00,39558,,Anápolis,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289364/583269_d183cc314a09d0ed52e10d0453340825.jpg,Movida,20220913211639
+1281666,Mobi,Fiat,2020,Preto,51720.00,40790.00,37687,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281666/655364_2198f92fe006cb65accd30935273671b.jpg,Movida,20220913211639
+1288303,Mobi,Fiat,2020,Branco,51720.00,40790.00,40270,,Anápolis,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288303/651320_67095ad8c8b457a558dc47a473fd2ef0.jpg,Movida,20220913211639
+1293666,Mobi,Fiat,2020,Branco,51720.00,40790.00,41385,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293666/655688_c535d5924689d8688d8a05da08f00bff.jpeg,Movida,20220913211639
+1297345,Mobi,Fiat,2020,Branco,51720.00,40790.00,38481,,Anápolis,GO,,,Movida,20220913211639
+1288711,Mobi,Fiat,2020,Preto,52500.00,40790.00,31287,,Maceió,AL,,,Movida,20220913211639
+1291483,Mobi,Fiat,2020,Cinza,52500.00,40790.00,30633,,Nova Iguaçu,RJ,,,Movida,20220913211639
+1290654,Mobi,Fiat,2020,Branco,52500.00,40790.00,34132,,Nova Iguaçu,RJ,,,Movida,20220913211639
+1296401,Mobi,Fiat,2020,Branco,52500.00,40790.00,30010,,Campinas,SP,,,Movida,20220913211639
+1291916,Mobi,Fiat,2020,Cinza,52500.00,40790.00,34425,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291916/646101_7540082192887af4dc0b96d9b4b043f8.jpg,Movida,20220913211639
+1279736,Mobi,Fiat,2020,Preto,52500.00,40790.00,32363,,Lauro de Freitas,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279736/593829_d94abf22658de57a21b066f050932b05.jpg,Movida,20220913211639
+1295976,Mobi,Fiat,2020,Branco,53290.00,40790.00,21200,,Nova Iguaçu,RJ,,,Movida,20220913211639
+1294571,Mobi,Fiat,2020,Cinza,53290.00,40790.00,22053,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294571/645526_c18222d0e818b373e86a5c8ed4a3f513.jpeg,Movida,20220913211639
+1294012,Mobi,Fiat,2020,Prata,53290.00,40790.00,21548,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294012/638174_230ad338ebd53a6aa4e22cc181a3637a.jpeg,Movida,20220913211639
+1294827,Mobi,Fiat,2020,Branco,53290.00,40790.00,16541,,Suzano,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294827/611739_283acbbd8c8ac1840bedf91dd32508ff.jpeg,Movida,20220913211639
+1186910,Mobi,Fiat,2021,Preto,53410.00,40790.00,34340,,Salvador,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1186910/671769_0b1b8597145df09b348aeeb40e6b0921.jpg,Movida,20220913211639
+1296648,Mobi,Fiat,2021,Preto,53410.00,40790.00,31539,,Belo Horizonte,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296648/670563_2a7981d1a4cdc63970bc2e75ad1656b7.jpg,Movida,20220913211639
+1234877,Mobi,Fiat,2021,Branco,53450.00,40790.00,37000,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1234877/697419_1527268da84e9ffa2e7119769049a030.jpeg,Movida,20220913211639
+1291178,Mobi,Fiat,2021,Prata,53450.00,40790.00,40001,,Lauro de Freitas,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291178/693999_22e3f8f84c97fbeffa44b6a3439c3420.jpg,Movida,20220913211639
+1266178,Mobi,Fiat,2021,Branco,53450.00,40790.00,48483,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266178/671563_217f4227871c22aca20a06c265b96f7f.jpg,Movida,20220913211639
+1261099,Mobi,Fiat,2021,Prata,53450.00,40790.00,42079,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1261099/693805_9aaeb7d20a57435b4eeec62ccdd56454.jpg,Movida,20220913211639
+1232749,Mobi,Fiat,2021,Branco,53450.00,40790.00,48791,,Ribeirão Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1232749/685314_2361bb205bdce6ed49d3fc6e26307d66.jpg,Movida,20220913211639
+1292343,Mobi,Fiat,2021,Branco,53450.00,40790.00,45000,,Belo Horizonte,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292343/696262_c52bc0539c85749726e62dd1c5d7f71b.jpg,Movida,20220913211639
+1242854,Mobi,Fiat,2021,Cinza,53450.00,40790.00,42797,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1242854/665670_0919cbd92f49351b4704a2c08250fde8.jpeg,Movida,20220913211639
+1279005,Mobi,Fiat,2021,Cinza,53450.00,40790.00,37689,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279005/701460_aa467d24d4935de735f2a5cec9586fc4.jpg,Movida,20220913211639
+1218332,Mobi,Fiat,2021,Prata,53450.00,40790.00,44700,,Maceió,AL,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1218332/696550_d88a53ff262ad573678be70c247666bf.jpg,Movida,20220913211639
+1296339,Mobi,Fiat,2021,Branco,53450.00,40790.00,39359,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296339/701394_15112ea04829dc5bbaf4166f8118e9e1.jpg,Movida,20220913211639
+1244195,Mobi,Fiat,2021,Branco,53450.00,40790.00,53013,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1244195/695889_6d9effe08a5dd5494a3da9ec9e3b8a03.jpg,Movida,20220913211639
+1222148,Mobi,Fiat,2021,Prata,53450.00,40790.00,59286,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1222148/695371_e6c97ccde89479653d3c579df55a8908.jpg,Movida,20220913211639
+1259583,Mobi,Fiat,2021,Cinza,53450.00,40790.00,42807,,Ribeirão Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1259583/701491_27374df8b3571fab64b329400d47c28e.jpg,Movida,20220913211639
+1254015,Mobi,Fiat,2021,Prata,53450.00,40790.00,46113,,Petrolina,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1254015/695275_2309277e24f38219c709a036b0927339.jpeg,Movida,20220913211639
+1239712,Mobi,Fiat,2021,Branco,53450.00,40790.00,40063,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1239712/701411_9e6cdcb2d71d6cc7a3c2613769106867.jpg,Movida,20220913211639
+1237258,Mobi,Fiat,2021,Cinza,53450.00,40790.00,50654,,Londrina,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1237258/682160_5b08a27364156aaac476b4280d35e4ce.jpg,Movida,20220913211639
+1279747,Mobi,Fiat,2021,Prata,53450.00,40790.00,38865,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279747/695306_b687e5bad80f6c0fd6c99dde1d3a2adb.jpeg,Movida,20220913211639
+1277172,Mobi,Fiat,2021,Branco,53450.00,40790.00,37572,,Taubaté,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1277172/702696_0d8fc558a06e41588ad29eca24d6efc1.jfif,Movida,20220913211639
+1183926,Mobi,Fiat,2021,Cinza,53450.00,40790.00,46033,,Uberlândia,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1183926/701492_cd6f8e645cb8f4b2872bf13c38224f0e.jpg,Movida,20220913211639
+1292460,Mobi,Fiat,2021,Branco,53450.00,40790.00,43768,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292460/671602_0d0fac1eecdcf186de54da59a3266695.jpg,Movida,20220913211639
+1249498,Mobi,Fiat,2021,Branco,53450.00,40790.00,49310,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1249498/697150_0cd6501580764d7510d80dfe5943fa6f.jpg,Movida,20220913211639
+1294622,Mobi,Fiat,2021,Branco,53450.00,40790.00,40504,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294622/694784_db347bffbbc5a184247f2f7c491c4b29.jpg,Movida,20220913211639
+1236882,Mobi,Fiat,2021,Cinza,53450.00,40790.00,41537,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1236882/697075_1e2a2b8bfe06a5b26d1a22a94375f398.jpg,Movida,20220913211639
+1288685,Mobi,Fiat,2021,Prata,53450.00,40790.00,50581,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288685/694275_4e7e7f0c7aa18c782a685606679f48fd.jpg,Movida,20220913211639
+1217128,Mobi,Fiat,2021,Vermelho,53450.00,40790.00,40442,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1217128/694010_ac176bd2244e8dee90bc0795b9722c8d.jpg,Movida,20220913211639
+1235056,Mobi,Fiat,2021,Branco,53450.00,40790.00,42507,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1235056/695928_210901e2e466304d9629c59ad32f5cd4.jpg,Movida,20220913211639
+1186469,Mobi,Fiat,2021,Preto,53950.00,40790.00,28549,,Vitória,ES,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1186469/673061_448deb2920a5b6574fd0565ac71c99c3.jpeg,Movida,20220913211639
+1291342,Mobi,Fiat,2021,Preto,53950.00,40790.00,26548,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291342/682317_bdd9ab4c4910eb44b4ce684b5ed8e725.jpg,Movida,20220913211639
+1221920,Mobi,Fiat,2021,Cinza,53950.00,40790.00,33577,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1221920/665672_a6df5e8995b6d7da31e24aefe4cd260f.jpeg,Movida,20220913211639
+1208202,Mobi,Fiat,2021,Cinza,53950.00,40790.00,33963,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1208202/665753_e0f2ed94dd5acba503fd3efbd9d35cd0.jpeg,Movida,20220913211639
+1236844,Mobi,Fiat,2021,Vermelho,53950.00,40790.00,30144,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1236844/694888_9f687c1906b9dd8efc216263fdabed1e.jpeg,Movida,20220913211639
+1208207,Mobi,Fiat,2021,Branco,53950.00,40790.00,33751,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1208207/699621_74279d1d785c9761d167b42b79bbbdd2.jpg,Movida,20220913211639
+1244455,Mobi,Fiat,2021,Vermelho,53950.00,40790.00,30821,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1244455/692643_2c2994957134450277453ab474ceaf68.jpeg,Movida,20220913211639
+1226359,Mobi,Fiat,2021,Prata,53950.00,40790.00,34268,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1226359/701440_39f5c0a30242978c7e8a6e6cbe344b44.jpeg,Movida,20220913211639
+1294952,Mobi,Fiat,2021,Cinza,53950.00,40790.00,30138,,Cuiabá,MT,,,Movida,20220913211639
+1280068,Mobi,Fiat,2021,Preto,53990.00,40790.00,44609,,Campinas,SP,,,Movida,20220913211639
+1283657,Mobi,Fiat,2021,Cinza,53990.00,40790.00,39398,,Cuiabá,MT,,,Movida,20220913211639
+1272186,Mobi,Fiat,2021,Branco,53990.00,40790.00,39223,,Jundiaí,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1272186/696046_a1adb9195cf17593c28f59480a73f1ae.jpg,Movida,20220913211639
+1283479,Mobi,Fiat,2021,Cinza,53990.00,40790.00,38895,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283479/684974_a2b5f8821d1f530dff293b6fbfb436b6.jpg,Movida,20220913211639
+1281572,Mobi,Fiat,2021,Prata,53990.00,40790.00,49744,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281572/693818_62b793a38c53fc94d094198e58d93fcf.jpeg,Movida,20220913211639
+1291857,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,42113,,Goiânia,GO,,,Movida,20220913211639
+1257742,Mobi,Fiat,2021,Preto,53990.00,40790.00,55131,,São Caetano do Sul,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257742/670574_20e40e1b15a5be5df9f95a87ae4c1e4b.jpg,Movida,20220913211639
+1288797,Mobi,Fiat,2021,Cinza,53990.00,40790.00,37352,,Brasília,DF,,,Movida,20220913211639
+1292278,Mobi,Fiat,2021,Branco,53990.00,40790.00,42472,,Osasco,SP,,,Movida,20220913211639
+1268758,Mobi,Fiat,2021,Cinza,53990.00,40790.00,38201,,Caxias do Sul,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1268758/668099_9fb414aabc377cf3be64d43ed95c98b2.jpeg,Movida,20220913211639
+1293735,Mobi,Fiat,2021,Branco,53990.00,40790.00,44699,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293735/683692_1206befee03f8e0676c4011b2e96159c.jpeg,Movida,20220913211639
+1274214,Mobi,Fiat,2021,Cinza,53990.00,40790.00,46001,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1274214/696583_a3341f23c82ff153e329d3c7ac6a1558.jpg,Movida,20220913211639
+1287555,Mobi,Fiat,2021,Preto,53990.00,40790.00,40103,,Uberlândia,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287555/671483_88388cf50622ed5194dbb8273bd7d162.jpg,Movida,20220913211639
+1294168,Mobi,Fiat,2021,Branco,53990.00,40790.00,39020,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294168/701580_cd54dad7ad5b387fa2f75303772d7865.jpeg,Movida,20220913211639
+1288688,Mobi,Fiat,2021,Preto,53990.00,40790.00,43121,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288688/671218_c76118a597eac3d0575d54d7eaaaac27.jpg,Movida,20220913211639
+1286416,Mobi,Fiat,2021,Cinza,53990.00,40790.00,46068,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1286416/664252_8a24d6fa72e30f62c18b52dae06c5a4f.jpeg,Movida,20220913211639
+1280266,Mobi,Fiat,2021,Cinza,53990.00,40790.00,49560,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1280266/684299_73528f74b319919f9160f377904a0b8a.jpg,Movida,20220913211639
+1289997,Mobi,Fiat,2021,Branco,53990.00,40790.00,47399,,Santos,SP,,,Movida,20220913211639
+1290084,Mobi,Fiat,2021,Branco,53990.00,40790.00,40530,,Brasília,DF,,,Movida,20220913211639
+1293670,Mobi,Fiat,2021,Prata,53990.00,40790.00,52469,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293670/693921_3ef093e02ea92fa1cf939c3c3349349d.jpeg,Movida,20220913211639
+1272233,Mobi,Fiat,2021,Prata,53990.00,40790.00,39937,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1272233/694258_7c224c2e0431605ef5d2027143cb57cb.jpg,Movida,20220913211639
+1293163,Mobi,Fiat,2021,Branco,53990.00,40790.00,54606,,São Bernardo do Campo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293163/671606_66a0eb6b4a1f12391b433c6340d6a6d7.jfif,Movida,20220913211639
+1265198,Mobi,Fiat,2021,Branco,53990.00,40790.00,42958,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1265198/683942_e21319c81bac298b872db7ad1f87eb73.jpg,Movida,20220913211639
+1255812,Mobi,Fiat,2021,Branco,53990.00,40790.00,50737,,Santos,SP,,,Movida,20220913211639
+1279379,Mobi,Fiat,2021,Branco,53990.00,40790.00,35511,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279379/701407_91217de33841dfac23e10d1e9f855c51.jpg,Movida,20220913211639
+1295103,Mobi,Fiat,2021,Branco,53990.00,40790.00,41548,,Suzano,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1295103/696048_a1fcb30255bcea5cab044d098064b1de.jpg,Movida,20220913211639
+1250641,Mobi,Fiat,2021,Preto,53990.00,40790.00,53001,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1250641/671217_869b1410610174aa8fdb7d5c3bf1795d.jpeg,Movida,20220913211639
+1290017,Mobi,Fiat,2021,Branco,53990.00,40790.00,35664,,Mogi das Cruzes,SP,,,Movida,20220913211639
+1262360,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40209,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1262360/677992_4b27d66a1df1c6313d383bec5c341a6b.jpg,Movida,20220913211639
+1296236,Mobi,Fiat,2021,Prata,53990.00,40790.00,52920,,Piracicaba,SP,,,Movida,20220913211639
+1288723,Mobi,Fiat,2021,Prata,53990.00,40790.00,45752,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288723/664881_ddb32518edf121564668891bbb0fe2b8.jpeg,Movida,20220913211639
+1279809,Mobi,Fiat,2021,Cinza,53990.00,40790.00,42762,,Florianópolis,SC,,,Movida,20220913211639
+1283861,Mobi,Fiat,2021,Prata,53990.00,40790.00,43753,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283861/693777_8d84e8ff2653c65b9f7ffc5e304d7728.jpg,Movida,20220913211639
+1256736,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40100,,Cuiabá,MT,,,Movida,20220913211639
+1265459,Mobi,Fiat,2021,Prata,53990.00,40790.00,36755,,Petrolina,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1265459/693958_2f69895f2923667b10520bc13b09f13c.jpeg,Movida,20220913211639
+1296409,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,43839,,Maringá,PR,,,Movida,20220913211639
+1295523,Mobi,Fiat,2021,Prata,53990.00,40790.00,48734,,Santos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1295523/663799_63b50b855734f119a778301022fabded.jpg,Movida,20220913211639
+1262435,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40470,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1262435/693765_28eb402c8e74a0dd93835226993b85fb.jpeg,Movida,20220913211639
+1296451,Mobi,Fiat,2021,Prata,53990.00,40790.00,39921,,Manaus,AM,,,Movida,20220913211639
+1288144,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40415,,Goiânia,GO,,,Movida,20220913211639
+1291684,Mobi,Fiat,2021,Cinza,53990.00,40790.00,42300,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291684/665011_0ab53a421861e4700d7151c11d2b7709.jpg,Movida,20220913211639
+1286481,Mobi,Fiat,2021,Preto,53990.00,40790.00,42566,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1286481/673136_1a97bdfbcb4542282d7bfb890aa09562.jpg,Movida,20220913211639
+1252659,Mobi,Fiat,2021,Prata,53990.00,40790.00,48920,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1252659/693808_33c67941f91dbbe628e75dd0f2dfcc42.jpg,Movida,20220913211639
+1283540,Mobi,Fiat,2021,Prata,53990.00,40790.00,39573,,Sorocaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283540/680128_b9ca266ece36c1087eeb42d9b4ab51f3.jpeg,Movida,20220913211639
+1293618,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,58274,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293618/666080_8eedb5761affcbd03508393d7198f392.jpg,Movida,20220913211639
+1257082,Mobi,Fiat,2021,Prata,53990.00,40790.00,40148,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257082/701445_b4ae1b42be71409b886cdfca4bcef4ca.jpg,Movida,20220913211639
+1294769,Mobi,Fiat,2021,Preto,53990.00,40790.00,36000,,Jundiaí,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294769/682331_15633106e3d6ee5f41daee876ee5db2b.jpg,Movida,20220913211639
+1290295,Mobi,Fiat,2021,Cinza,53990.00,40790.00,46583,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290295/680163_26eced8fe7dc69f01a5ff97c820cff6f.jpg,Movida,20220913211639
+1288730,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,37503,,Ribeirão Preto,SP,,,Movida,20220913211639
+1278025,Mobi,Fiat,2021,Branco,53990.00,40790.00,47149,,Sorocaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278025/699616_256c34c5b765878f0467f0b42f5a6b6d.jpeg,Movida,20220913211639
+1288677,Mobi,Fiat,2021,Prata,53990.00,40790.00,41894,,Goiânia,GO,,,Movida,20220913211639
+1286684,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40171,,Blumenau,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1286684/665705_2c105c71d3396d42b10226c98987e7eb.jpeg,Movida,20220913211639
+1271250,Mobi,Fiat,2021,Branco,53990.00,40790.00,50820,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1271250/663643_1e8d53c3c3ba89bfb4d4496f702a9e51.jpeg,Movida,20220913211639
+1279981,Mobi,Fiat,2021,Preto,53990.00,40790.00,44240,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279981/671749_077ff8949e22d2b8c2edba73d7baa2e9.jpg,Movida,20220913211639
+1281688,Mobi,Fiat,2021,Branco,53990.00,40790.00,45055,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281688/697173_a8a9a35dd70bfd5b9d1df611f15a8d1b.jpeg,Movida,20220913211639
+1296554,Mobi,Fiat,2021,Prata,53990.00,40790.00,48953,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296554/694235_0989212d52344b06dfebf9571952eba8.jpeg,Movida,20220913211639
+1255773,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,40896,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1255773/673098_1ea0000e5a7e64e4b339d904ab3f19d4.jpeg,Movida,20220913211639
+1292048,Mobi,Fiat,2021,Prata,53990.00,40790.00,49183,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292048/680153_12da2aaece09c9f4faf34c8b4f4ce0ab.jpeg,Movida,20220913211639
+1276240,Mobi,Fiat,2021,Branco,53990.00,40790.00,45031,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1276240/697380_6a8c55600bd9d7feed661eda3786ffa2.jpg,Movida,20220913211639
+1267262,Mobi,Fiat,2021,Preto,53990.00,40790.00,39019,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1267262/665920_7681365663e0f75556cb0cc07be4b956.jpeg,Movida,20220913211639
+1294803,Mobi,Fiat,2021,Prata,53990.00,40790.00,49121,,Jundiaí,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294803/695267_8bd6240dc088bb27ff9260c89fc6c1cd.jpg,Movida,20220913211639
+1293870,Mobi,Fiat,2021,Cinza,53990.00,40790.00,49264,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293870/694944_44b98c0f5124902c2a7f460912bca9e3.jpg,Movida,20220913211639
+1266176,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,41129,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266176/692167_1bc91b1ff0243aa159cc9b61b956b2d1.jpg,Movida,20220913211639
+1279951,Mobi,Fiat,2021,Prata,53990.00,40790.00,45605,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279951/677562_f915793493717d53fc48194bce39292a.jpg,Movida,20220913211639
+1278394,Mobi,Fiat,2021,Preto,53990.00,40790.00,53955,,Barueri,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278394/672402_6cca6df4926a4b8f01e5b8fe054a2622.jpg,Movida,20220913211639
+1287171,Mobi,Fiat,2021,Prata,53990.00,40790.00,41541,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287171/694029_8b3c7261050976ccef8abcde5ef74f7d.jpeg,Movida,20220913211639
+1284375,Mobi,Fiat,2021,Cinza,53990.00,40790.00,39360,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1284375/697001_5eec802c11f4241eb712fa39c5ba570c.jpeg,Movida,20220913211639
+1289064,Mobi,Fiat,2021,Prata,53990.00,40790.00,50539,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289064/695336_e0b4019574c74854c2cac7bdf3c71781.jpeg,Movida,20220913211639
+1282540,Mobi,Fiat,2021,Cinza,53990.00,40790.00,39217,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282540/699721_c304c5e50710b47f05bb5cb661bc22c0.jpg,Movida,20220913211639
+1282729,Mobi,Fiat,2021,Prata,53990.00,40790.00,39400,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282729/699636_c8b0cb01d03821440523638fd342af52.jpeg,Movida,20220913211639
+1248120,Mobi,Fiat,2021,Prata,53990.00,40790.00,40098,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1248120/693993_bc5cba8f8aeae50c5c626d4296d2786e.jpg,Movida,20220913211639
+1264801,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40802,,Cuiabá,MT,,,Movida,20220913211639
+1257079,Mobi,Fiat,2021,Branco,53990.00,40790.00,41962,,Petrolina,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257079/694607_b60473d68a3032a26454e0f4953eeca5.jpeg,Movida,20220913211639
+1263805,Mobi,Fiat,2021,Prata,53990.00,40790.00,51489,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1263805/696558_0cb5914533fc78d2bbd51723b58347e4.jpeg,Movida,20220913211639
+1284362,Mobi,Fiat,2021,Cinza,53990.00,40790.00,50917,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1284362/699787_a0f0f929a5ced67ffd968d2f2042137b.jpeg,Movida,20220913211639
+1296319,Mobi,Fiat,2021,Cinza,53990.00,40790.00,41511,,Fortaleza,CE,,,Movida,20220913211639
+1268241,Mobi,Fiat,2021,Branco,53990.00,40790.00,50315,,Bauru,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1268241/697337_c3d239af12f17fcdcbce7a411c413b27.jpeg,Movida,20220913211639
+1251235,Mobi,Fiat,2021,Branco,53990.00,40790.00,57348,,São Bernardo do Campo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1251235/695682_794fe2543d2006046d0249ce12162fe9.jfif,Movida,20220913211639
+1294832,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40126,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294832/699813_dd69cd06ed106b133943542a2949c1b8.jpeg,Movida,20220913211639
+1287158,Mobi,Fiat,2021,Cinza,53990.00,40790.00,39407,,Itajaí,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287158/665703_6aff5e8b112fd62fc39b49d604b85eb3.jpeg,Movida,20220913211639
+1292209,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,44085,,Aparecida de Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292209/696600_898c7879bb2170e9b73c2783b5774190.jpg,Movida,20220913211639
+1283799,Mobi,Fiat,2021,Prata,53990.00,40790.00,36929,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283799/701444_0b94c6f6298886d5141c89e8b8a2c0c0.jfif,Movida,20220913211639
+1257331,Mobi,Fiat,2021,Cinza,53990.00,40790.00,49361,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257331/699797_a45af3c40f1be496e36a6f006bd5d0eb.jpeg,Movida,20220913211639
+1256044,Mobi,Fiat,2021,Branco,53990.00,40790.00,43523,,São Paulo,SP,,,Movida,20220913211639
+1287516,Mobi,Fiat,2021,Cinza,53990.00,40790.00,49993,,São Paulo,SP,,,Movida,20220913211639
+1256407,Mobi,Fiat,2021,Preto,53990.00,40790.00,41429,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1256407/672562_c53fe03157c40a087451d8a39bb50090.jpg,Movida,20220913211639
+1295747,Mobi,Fiat,2021,Branco,53990.00,40790.00,39537,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1295747/694681_fdda7db886af10b92af3d34e3cc9c367.jpg,Movida,20220913211639
+1266225,Mobi,Fiat,2021,Cinza,53990.00,40790.00,43624,,São José,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266225/668086_1685156ac1d080941feb4e2fa54e098f.jpeg,Movida,20220913211639
+1294578,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,42966,,Belo Horizonte,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294578/697427_cc536b693e1d19e14fefadae95d40662.jpg,Movida,20220913211639
+1251941,Mobi,Fiat,2021,Prata,53990.00,40790.00,37001,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1251941/695351_dec407f2daaaa8af1358a6a1d9a7a440.jpg,Movida,20220913211639
+1290093,Mobi,Fiat,2021,Branco,53990.00,40790.00,40179,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290093/699598_2f19e1546ae93084370b904b22f62edf.jpg,Movida,20220913211639
+1296187,Mobi,Fiat,2021,Branco,53990.00,40790.00,35201,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296187/701406_e735c782f5600cc5616b87d1388fd2f6.jpg,Movida,20220913211639
+1262327,Mobi,Fiat,2021,Branco,53990.00,40790.00,44645,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1262327/671608_8e2b14c935ee620b8b6e738e31e0cbbb.jpeg,Movida,20220913211639
+1287600,Mobi,Fiat,2021,Prata,53990.00,40790.00,43484,,São Bernardo do Campo,SP,,,Movida,20220913211639
+1294930,Mobi,Fiat,2021,Prata,53990.00,40790.00,39528,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294930/695355_f9a25b29224a719d8eb7293dc850e1f5.jpg,Movida,20220913211639
+1288726,Mobi,Fiat,2021,Branco,53990.00,40790.00,47745,,Londrina,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288726/694631_24901d7e817eb1a0c79b0280056d3715.jpg,Movida,20220913211639
+1262235,Mobi,Fiat,2021,Preto,53990.00,40790.00,47003,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1262235/671481_8ead06c35471f934926da7b3d6b7d5de.jpg,Movida,20220913211639
+1278135,Mobi,Fiat,2021,Preto,53990.00,40790.00,41093,,Contagem,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278135/665000_a6bc37205d31da0dee2f0af9847f4beb.jpg,Movida,20220913211639
+1266337,Mobi,Fiat,2021,Cinza,53990.00,40790.00,51779,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266337/701466_2bf7c188f040e153236483320e95bef4.jpg,Movida,20220913211639
+1294782,Mobi,Fiat,2021,Cinza,53990.00,40790.00,52942,,Jundiaí,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294782/693779_a41e3537972fda6e97e929ee82d86fe5.jpg,Movida,20220913211639
+1293739,Mobi,Fiat,2021,Branco,53990.00,40790.00,42334,,Suzano,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293739/702690_8539c8c61980291002a0e2c0700c1f40.jpg,Movida,20220913211639
+1296305,Mobi,Fiat,2021,Vermelho,53990.00,40790.00,39482,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296305/695008_da8fec384e1ba61ae153f4a95be8ebce.jpg,Movida,20220913211639
+1288565,Mobi,Fiat,2021,Prata,53990.00,40790.00,43442,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288565/684072_a1d8060cb6d78ef1ce4fed16ec843b21.jpeg,Movida,20220913211639
+1295644,Mobi,Fiat,2021,Cinza,53990.00,40790.00,37197,,São Paulo,SP,,,Movida,20220913211639
+1251688,Mobi,Fiat,2021,Preto,53990.00,40790.00,48414,,Sorocaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1251688/672396_11a50e25ad49a3fed9646c44a46eb94d.jpeg,Movida,20220913211639
+1290609,Mobi,Fiat,2021,Cinza,53990.00,40790.00,37797,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290609/694968_c1558bd6b5bf1a45086e2b745d2fa253.jpeg,Movida,20220913211639
+1285275,Mobi,Fiat,2021,Branco,53990.00,40790.00,42011,,São Caetano do Sul,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285275/664104_26ad39f3e7d8db8276c19a35875a122b.jpg,Movida,20220913211639
+1292366,Mobi,Fiat,2021,Branco,53990.00,40790.00,56727,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292366/697405_be43b85015ca0d2f688e9d5f8a500e87.jpeg,Movida,20220913211639
+1290541,Mobi,Fiat,2021,Branco,53990.00,40790.00,38258,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290541/700319_bd74ad1c4d6764a15804f046c4ed30ee.jpg,Movida,20220913211639
+1293560,Mobi,Fiat,2021,Prata,53990.00,40790.00,47580,,Itajaí,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293560/695198_c4f4bd042598c8577d667cbd92f64475.jpg,Movida,20220913211639
+1282999,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40529,,Maringá,PR,,,Movida,20220913211639
+1285356,Mobi,Fiat,2021,Prata,53990.00,40790.00,38132,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285356/695345_f1f841c0a632e07ae4f171f44c2ca733.jpg,Movida,20220913211639
+1288692,Mobi,Fiat,2021,Cinza,53990.00,40790.00,43503,,Taubaté,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288692/694994_15aba77e6389a770b4be8a670ac1967d.jpeg,Movida,20220913211639
+1250857,Mobi,Fiat,2021,Branco,53990.00,40790.00,37134,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1250857/695854_64a0dca3db919969f342a2d758b89605.jpg,Movida,20220913211639
+1286376,Mobi,Fiat,2021,Prata,53990.00,40790.00,54425,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1286376/695152_64e0706c92376a8a8fcccce3feee3e6a.jpg,Movida,20220913211639
+1255739,Mobi,Fiat,2021,Branco,53990.00,40790.00,51010,,Osasco,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1255739/695680_78fe141b9387433cc9a988c8936e0259.jpg,Movida,20220913211639
+1288765,Mobi,Fiat,2021,Prata,53990.00,40790.00,43965,,Londrina,PR,,,Movida,20220913211639
+1295992,Mobi,Fiat,2021,Branco,53990.00,40790.00,42022,,Osasco,SP,,,Movida,20220913211639
+1296246,Mobi,Fiat,2021,Cinza,53990.00,40790.00,41428,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296246/694948_14f8b6fd383a9421b7992f382171eba5.jpg,Movida,20220913211639
+1268398,Mobi,Fiat,2021,Prata,53990.00,40790.00,41150,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1268398/701416_944e72df94e0e371bf80af55f3049411.jpeg,Movida,20220913211639
+1296633,Mobi,Fiat,2021,Branco,53990.00,40790.00,39039,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296633/694524_963f8b20673c53672e4515cff5700c9f.jpeg,Movida,20220913211639
+1285363,Mobi,Fiat,2021,Prata,53990.00,40790.00,40182,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285363/677585_d9f53511a43692a5da9d0d4ca0189b6c.jpeg,Movida,20220913211639
+1270725,Mobi,Fiat,2021,Cinza,53990.00,40790.00,38849,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1270725/699727_6c32763ff8c7e3bf166388808b6624c1.jpeg,Movida,20220913211639
+1293813,Mobi,Fiat,2021,Cinza,53990.00,40790.00,37094,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293813/674838_a2e3df68708773219b15e54641add213.jpg,Movida,20220913211639
+1296376,Mobi,Fiat,2021,Branco,53990.00,40790.00,61267,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296376/694628_dc44d695d0cd676f55f3b3e68b9ce0e0.jpeg,Movida,20220913211639
+1288686,Mobi,Fiat,2021,Prata,53990.00,40790.00,40084,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288686/695283_46b79c998eca205b58fe5cdcad4cd4ed.jpeg,Movida,20220913211639
+1269000,Mobi,Fiat,2021,Prata,53990.00,40790.00,51010,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1269000/695296_987d040b5fec8cfb94050e7cd39fd80d.jpeg,Movida,20220913211639
+1285763,Mobi,Fiat,2021,Branco,53990.00,40790.00,57654,,Suzano,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285763/695648_3bdf1041fd79baa8132c8089777acb14.jpg,Movida,20220913211639
+1282418,Mobi,Fiat,2021,Prata,53990.00,40790.00,37533,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282418/695334_ecf7166758226e57812f9c27623e3f51.jpg,Movida,20220913211639
+1292402,Mobi,Fiat,2021,Prata,53990.00,40790.00,39730,,Várzea Grande,MT,,,Movida,20220913211639
+1296716,Mobi,Fiat,2021,Branco,53990.00,40790.00,41774,,São Paulo,SP,,,Movida,20220913211639
+1294947,Mobi,Fiat,2021,Prata,53990.00,40790.00,40299,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294947/694297_e617b3f3c53e969ba25694297f2d0074.jpg,Movida,20220913211639
+1293832,Mobi,Fiat,2021,Branco,53990.00,40790.00,61812,,Petrolina,PE,,,Movida,20220913211639
+1285370,Mobi,Fiat,2021,Cinza,53990.00,40790.00,35279,,Santo André,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285370/695040_edb9d93222604ad2c8ae0509bc79b2f9.jfif,Movida,20220913211639
+1293322,Mobi,Fiat,2021,Prata,53990.00,40790.00,43398,,Piracicaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293322/664939_ca52d3530561249018dd1e9c6f5b1e8d.jpg,Movida,20220913211639
+1296807,Mobi,Fiat,2021,Prata,53990.00,40790.00,35709,,Serra,ES,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296807/693928_a57edc1ff4e25cd614a64113b166e750.jpeg,Movida,20220913211639
+1296907,Mobi,Fiat,2021,Cinza,53990.00,40790.00,40852,,Barueri,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296907/699929_9c1dacd8e534a9c03a31e880aa58afc1.jpg,Movida,20220913211639
+1296996,Mobi,Fiat,2021,Branco,53990.00,40790.00,40873,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296996/700338_0d1ff0880863c61fcf7674b4fecfddb1.jpg,Movida,20220913211639
+1297284,Mobi,Fiat,2021,Branco,53990.00,40790.00,41580,,Sorocaba,SP,,,Movida,20220913211639
+1296250,Mobi,Fiat,2021,Branco,53990.00,40790.00,52865,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296250/695941_b2752d595a422e37cc5cbfb51ff943ae.jpg,Movida,20220913211639
+1297076,Mobi,Fiat,2021,Branco,53990.00,40790.00,37056,,Vitória,ES,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1297076/695684_d314e5fc5d755ae51c1b235c0f3ad57a.jpeg,Movida,20220913211639
+1297572,Mobi,Fiat,2021,Prata,53990.00,40790.00,44812,,Niterói,RJ,,,Movida,20220913211639
+1297615,Mobi,Fiat,2021,Prata,53990.00,40790.00,39486,,São Luís,MA,,,Movida,20220913211639
+1297734,Mobi,Fiat,2021,Prata,53990.00,40790.00,38380,,Santo André,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1297734/684050_13966773d8912d0cf464a1c13b96fc79.jfif,Movida,20220913211639
+1261469,Mobi,Fiat,2021,Cinza,54490.00,40790.00,30472,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1261469/664240_8ff1baa2f82fb769c71642ee0b73ff96.jpeg,Movida,20220913211639
+1287284,Mobi,Fiat,2021,Cinza,54490.00,40790.00,34408,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287284/674999_63f43015216aba0e40ff89e86ced9eb0.jpg,Movida,20220913211639
+1283892,Mobi,Fiat,2021,Branco,54490.00,40790.00,33433,,Uberlândia,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283892/696259_bc7e68026ebdf77a80382522f663a219.jpg,Movida,20220913211639
+1278044,Mobi,Fiat,2021,Vermelho,54490.00,40790.00,31776,,Canoas,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278044/671532_dac05af1c82bad59e7642a9991374e85.jpg,Movida,20220913211639
+1278832,Mobi,Fiat,2021,Cinza,54490.00,40790.00,24486,,Cuiabá,MT,,,Movida,20220913211639
+1287783,Mobi,Fiat,2021,Prata,54490.00,40790.00,30201,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287783/694330_984c96c3c7f7aac6761fbed48ae3434e.jpeg,Movida,20220913211639
+1290803,Mobi,Fiat,2021,Branco,54490.00,40790.00,34327,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290803/702700_699b0a3055d5d974cb4bcf33c092db75.jpg,Movida,20220913211639
+1287515,Mobi,Fiat,2021,Preto,54490.00,40790.00,32488,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287515/665914_0e215251b2b1b864403ec5d93c5d9e18.jpeg,Movida,20220913211639
+1295624,Mobi,Fiat,2021,Cinza,54490.00,40790.00,22034,,Brasília,DF,,,Movida,20220913211639
+1294579,Mobi,Fiat,2021,Branco,54490.00,40790.00,31791,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294579/683892_c0a7c8a867be8a78710d8e128e04ff58.jpeg,Movida,20220913211639
+1294933,Mobi,Fiat,2021,Prata,54490.00,40790.00,32730,,Osasco,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294933/694296_5d3b485bdc92f6a25dc2ba3cd63a132b.jpg,Movida,20220913211639
+1289943,Mobi,Fiat,2021,Prata,54490.00,40790.00,30128,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289943/694302_6e04236ba968d467c259ad68384dea58.jpeg,Movida,20220913211639
+1287119,Mobi,Fiat,2021,Prata,54490.00,40790.00,34464,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287119/693814_ac5dd896ccbe5a7780ccae34cf758a80.jpeg,Movida,20220913211639
+1271564,Mobi,Fiat,2021,Preto,54490.00,40790.00,30871,,Londrina,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1271564/672266_9b9bc264e5f0ff3f39ab1ddb7f47b34e.jpg,Movida,20220913211639
+1287973,Mobi,Fiat,2021,Preto,54490.00,40790.00,33825,,São Carlos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287973/671513_da6afc5d918e26d531fbdd38e43f8b46.jpg,Movida,20220913211639
+1289320,Mobi,Fiat,2021,Cinza,54490.00,40790.00,30185,,Lauro de Freitas,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289320/677985_e83f684a1de2e03783723351d3e86a4b.jpg,Movida,20220913211639
+1296237,Mobi,Fiat,2021,Prata,54490.00,40790.00,31048,,Recife,PE,,,Movida,20220913211639
+1286564,Mobi,Fiat,2021,Preto,54490.00,40790.00,25389,,São Caetano do Sul,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1286564/682449_241d1c22cc3c8d53a0b0f4e57cca1667.jpg,Movida,20220913211639
+1293596,Mobi,Fiat,2021,Prata,54490.00,40790.00,27480,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293596/700356_5ee019003bb41be380d8e06e35157277.jpeg,Movida,20220913211639
+1279506,Mobi,Fiat,2021,Branco,54490.00,40790.00,30937,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279506/701575_16025dab3140233d4bbf89ca735f2028.jpeg,Movida,20220913211639
+1289165,Mobi,Fiat,2021,Branco,54490.00,40790.00,30368,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1289165/694152_e7266004130e093f4763a8babd9bc351.jpeg,Movida,20220913211639
+1293542,Mobi,Fiat,2021,Branco,54490.00,40790.00,30517,,Itajaí,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293542/685323_6e72227633d62c68a2f35be19d079f03.jpg,Movida,20220913211639
+1278429,Mobi,Fiat,2021,Prata,54490.00,40790.00,34303,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278429/694037_16d42cb624ffcb08ded7630d1662a803.jpeg,Movida,20220913211639
+1295694,Mobi,Fiat,2021,Cinza,54490.00,40790.00,31965,,Blumenau,SC,,,Movida,20220913211639
+1259278,Mobi,Fiat,2021,Vermelho,54490.00,40790.00,32056,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1259278/692636_0a2260982b4ec38ccfcfde4e9ef2a709.jpeg,Movida,20220913211639
+1243363,Mobi,Fiat,2021,Branco,54490.00,40790.00,29659,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1243363/694698_cc43edda0f4745f0ed7e979cf2d796a7.jpg,Movida,20220913211639
+1294815,Mobi,Fiat,2021,Branco,54490.00,40790.00,32050,,Feira de Santana,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294815/695757_12ab58ff9ba39e47cf9091fa03d45cb4.jpg,Movida,20220913211639
+1290029,Mobi,Fiat,2021,Cinza,54490.00,40790.00,34050,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290029/665025_8e4f9bf571a75f2b18b03b6572c90505.jpg,Movida,20220913211639
+1290603,Mobi,Fiat,2021,Prata,54490.00,40790.00,30782,,Salvador,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290603/682172_b273543adfd5c491d7a3a972ce41ea40.jpeg,Movida,20220913211639
+1277091,Mobi,Fiat,2021,Cinza,54490.00,40790.00,33837,,Taubaté,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1277091/697002_b9af190c5c5611cef6fdc1bebbbc8c64.jpeg,Movida,20220913211639
+1285705,Mobi,Fiat,2021,Branco,54490.00,40790.00,32444,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285705/695783_0d57b912acb8d0b691ca6a2196e0f6ad.jpg,Movida,20220913211639
+1255814,Mobi,Fiat,2021,Preto,54490.00,40790.00,27576,,Sorocaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1255814/682318_026df37f2ba10998a33feed5211a9a58.jpeg,Movida,20220913211639
+1288932,Mobi,Fiat,2021,Cinza,54490.00,40790.00,30303,,Brasília,DF,,,Movida,20220913211639
+1263964,Mobi,Fiat,2021,Cinza,54490.00,40790.00,32124,,Feira de Santana,BA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1263964/665657_1d9af970ce8e9dff8151b7e41d1976e0.jpg,Movida,20220913211639
+1285382,Mobi,Fiat,2021,Branco,54490.00,40790.00,27050,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285382/701577_d9946f93946f56cb0eda10080f6ba92a.jpg,Movida,20220913211639
+1287244,Mobi,Fiat,2021,Branco,54490.00,40790.00,30102,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287244/701408_1102d2ce3ab8617171bb62455c445ab0.jpg,Movida,20220913211639
+1253386,Mobi,Fiat,2021,Vermelho,54490.00,40790.00,29448,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1253386/694906_257257654908b1bba0f03fa9f6c32e52.jpeg,Movida,20220913211639
+1274708,Mobi,Fiat,2021,Branco,54490.00,40790.00,34896,,Contagem,MG,,,Movida,20220913211639
+1296405,Mobi,Fiat,2021,Cinza,54490.00,40790.00,31884,,Rio de Janeiro,RJ,,,Movida,20220913211639
+1294047,Mobi,Fiat,2021,Vermelho,54490.00,40790.00,32353,,Betim,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294047/672698_bdd4fda72d5f41cde4ac777ac4bb3d72.jpeg,Movida,20220913211639
+1293078,Mobi,Fiat,2021,Prata,54490.00,40790.00,31334,,Itajaí,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293078/694003_fbb20f0c8bb62099afebff73e5d4cab4.jpeg,Movida,20220913211639
+1296614,Mobi,Fiat,2021,Preto,54490.00,40790.00,30303,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296614/672229_fa3c3e755313b6914eee6522182a9624.jpeg,Movida,20220913211639
+1294698,Mobi,Fiat,2021,Cinza,54490.00,40790.00,28501,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294698/700477_0926e51c11590c4048449bd8357d463c.jpeg,Movida,20220913211639
+1251290,Mobi,Fiat,2021,Prata,54490.00,40790.00,30153,,Caxias do Sul,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1251290/695278_70cd768c50720b78ea2c88d2b50a2bfd.jpeg,Movida,20220913211639
+1293711,Mobi,Fiat,2021,Branco,54490.00,40790.00,31313,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293711/695905_575fff4c7d4cabe5078c29bd23169ce2.jpeg,Movida,20220913211639
+1296684,Mobi,Fiat,2021,Branco,54490.00,40790.00,31000,,Sorocaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296684/683883_7090016609f2f4b47c186e1e4fe9a275.jpeg,Movida,20220913211639
+1272192,Mobi,Fiat,2021,Branco,54490.00,40790.00,32000,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1272192/694758_7e13f556212938ffc0ea4d992b2c5400.jpeg,Movida,20220913211639
+1285679,Mobi,Fiat,2021,Cinza,54490.00,40790.00,26584,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285679/701467_5785d42280d6d30935e77df53b500000.jpg,Movida,20220913211639
+1294958,Mobi,Fiat,2021,Prata,54490.00,40790.00,31122,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294958/695408_588be53cda9ffcc6618f1351d3fd796d.jpg,Movida,20220913211639
+1296433,Mobi,Fiat,2021,Vermelho,54490.00,40790.00,31061,,Bauru,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296433/671234_d05f1c8694c0da216b4ffc0c1ccbde9b.jpeg,Movida,20220913211639
+1296818,Mobi,Fiat,2021,Branco,54490.00,40790.00,30711,,Sorocaba,SP,,,Movida,20220913211639
+1297113,Mobi,Fiat,2021,Prata,54490.00,40790.00,20849,,João Pessoa,PB,,,Movida,20220913211639
+1297508,Mobi,Fiat,2021,Prata,54490.00,40790.00,30357,,Salvador,BA,,,Movida,20220913211639
+1277235,Mobi,Fiat,2022,Branco,55860.00,40790.00,68486,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1277235/709044_7dba5435dc38016f38b59dfb6806790e.jpg,Movida,20220913211639
+1293404,Mobi,Fiat,2022,Vermelho,55950.00,40790.00,64031,,São Paulo,SP,,,Movida,20220913211639
+1292302,Mobi,Fiat,2022,Branco,55950.00,40790.00,67000,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292302/705586_f8ebb93cb9c08e7b0083c81d7de02cb7.jpg,Movida,20220913211639
+1244168,Mobi,Fiat,2022,Prata,56240.00,40790.00,50364,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1244168/705687_878f679a4ee310bc97e6c0b1096bee2b.jpg,Movida,20220913211639
+1243069,Mobi,Fiat,2022,Branco,56240.00,40790.00,49965,,Ribeirão Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1243069/721301_89dae5f18af57f8d8cfec9893e04f3c9.jpg,Movida,20220913211639
+1243073,Mobi,Fiat,2022,Prata,56240.00,40790.00,50292,,Ribeirão Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1243073/705661_d2143b6260d93507bfc7942ad5b04f2f.jpg,Movida,20220913211639
+1209713,Mobi,Fiat,2022,Prata,56240.00,40790.00,48162,,Uberlândia,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1209713/705895_7f6c6c1a29b7d9190da5d60306e4fc24.jpg,Movida,20220913211639
+1215590,Mobi,Fiat,2022,Prata,56240.00,40790.00,49557,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1215590/705867_791157ec82f6b349ead9250245183d62.jpg,Movida,20220913211639
+1287610,Mobi,Fiat,2022,Prata,56240.00,40790.00,55780,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287610/705869_bc5cf966e0fd3de4877510be1ca7d356.jpeg,Movida,20220913211639
+1278808,Mobi,Fiat,2022,Branco,56240.00,40790.00,45865,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278808/709013_8fd68310ea6eb1c816c99879fa18a995.jpg,Movida,20220913211639
+1282412,Mobi,Fiat,2022,Vermelho,56240.00,40790.00,45131,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282412/708971_4e5f2244708a59f06820cf4674c9270f.jpg,Movida,20220913211639
+1282737,Mobi,Fiat,2022,Prata,56240.00,40790.00,53561,,Teresina,PI,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282737/709884_a20f71cb0240033cc3aaf734ab98de62.jpeg,Movida,20220913211639
+1296604,Mobi,Fiat,2022,Prata,56240.00,40790.00,51446,,Belo Horizonte,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296604/709816_0e88b2560a0939519edc11b71e64348e.jpg,Movida,20220913211639
+1227407,Mobi,Fiat,2022,Vermelho,56240.00,40790.00,48622,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1227407/708970_bcc2e9b9e300e3c896372f061bc9e25d.jpg,Movida,20220913211639
+1252501,Mobi,Fiat,2022,Branco,56240.00,40790.00,48403,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1252501/722352_758bc22b9391ed7d7261c61ab2fcd5a6.jpeg,Movida,20220913211639
+1285527,Mobi,Fiat,2022,Prata,56830.00,40790.00,45876,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285527/728851_0c46a1d301737d4935b63912a5bdce1a.jpg,Movida,20220913211639
+1257329,Mobi,Fiat,2022,Branco,56830.00,40790.00,48792,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257329/708960_1975b31890ec68d874b709fad377c9b2.jpeg,Movida,20220913211639
+1293800,Mobi,Fiat,2022,Prata,56830.00,40790.00,45035,,Belém,PA,,,Movida,20220913211639
+1266369,Mobi,Fiat,2022,Branco,56830.00,40790.00,48123,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266369/709657_fc4e11bd600eefe02674d988f4bbd455.jpeg,Movida,20220913211639
+1288693,Mobi,Fiat,2022,Branco,56830.00,40790.00,47654,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288693/709580_faa7941e4c18ddfde8c743d9a4f794db.jpg,Movida,20220913211639
+1286219,Mobi,Fiat,2022,Prata,56830.00,40790.00,48224,,Goiânia,GO,,,Movida,20220913211639
+1263755,Mobi,Fiat,2022,Branco,56830.00,40790.00,51602,,Belém,PA,,,Movida,20220913211639
+1274620,Mobi,Fiat,2022,Branco,56830.00,40790.00,52265,,Barueri,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1274620/709655_8c274883c3d0b4b989c9fa944bc515e1.jpg,Movida,20220913211639
+1296281,Mobi,Fiat,2022,Prata,56830.00,40790.00,49129,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296281/709934_9ec8865b35e3eeae4d82ac537a88edab.jpeg,Movida,20220913211639
+1292092,Mobi,Fiat,2022,Vermelho,56830.00,40790.00,46146,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292092/728011_a57cb8bf232766dcaa27eb9abd05cb0c.jpeg,Movida,20220913211639
+1292154,Mobi,Fiat,2022,Branco,56830.00,40790.00,50704,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292154/725250_f79ae0c91445c3d44ae53a83150c6b20.jpeg,Movida,20220913211639
+1292160,Mobi,Fiat,2022,Branco,56830.00,40790.00,45260,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292160/708991_33e0d685977ac6df34d9c66a0b07d159.jpeg,Movida,20220913211639
+1282747,Mobi,Fiat,2022,Prata,56830.00,40790.00,56321,,Teresina,PI,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282747/715312_064190fa6389cfbc6e950185b5bb5816.jpeg,Movida,20220913211639
+1271351,Mobi,Fiat,2022,Vermelho,56830.00,40790.00,46636,,Teresina,PI,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1271351/710208_d0fa8f855549dd8cbef581e0941b323d.jpg,Movida,20220913211639
+1287066,Mobi,Fiat,2022,Cinza,56830.00,40790.00,48563,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287066/710144_af3e7576f0123530680b52073b334436.jpg,Movida,20220913211639
+1292083,Mobi,Fiat,2022,Branco,56830.00,40790.00,49293,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292083/729831_079da96e3a520ef87b71955da7cd7674.jpeg,Movida,20220913211639
+1288731,Mobi,Fiat,2022,Cinza,56830.00,40790.00,45889,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288731/736987_fcf6e64d40f96dc7836e87e8cd601631.jpeg,Movida,20220913211639
+1251169,Mobi,Fiat,2022,Branco,57120.00,40790.00,35251,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1251169/708954_fbd4b9ec88cfab7d94b42632422f4589.jpeg,Movida,20220913211639
+1288718,Mobi,Fiat,2022,Branco,57120.00,40790.00,38000,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288718/709605_cfcaf1018080ec92fa2d84cad3343210.jpeg,Movida,20220913211639
+1295179,Mobi,Fiat,2022,Branco,57120.00,40790.00,44001,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1295179/708998_805d8de0d10ad13c3bb07f06ade66007.jpg,Movida,20220913211639
+1231964,Mobi,Fiat,2022,Cinza,57120.00,40790.00,39350,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1231964/710212_6549c8f0ed09ec231ae2a55304dc37ca.jpg,Movida,20220913211639
+1240715,Mobi,Fiat,2022,Branco,57120.00,40790.00,39308,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1240715/709546_e5420022306b983914b8cf4516010767.jpeg,Movida,20220913211639
+1254792,Mobi,Fiat,2022,Branco,57120.00,40790.00,38232,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1254792/709641_a085bd9ab84a67cb45c25e8b5163e69e.jpg,Movida,20220913211639
+1275121,Mobi,Fiat,2022,Prata,57120.00,40790.00,41964,,Aparecida de Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1275121/708300_bcb5f5f644ed6f33915a7cf78b9e0398.jpg,Movida,20220913211639
+1226037,Mobi,Fiat,2022,Cinza,57120.00,40790.00,40930,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1226037/710150_e0e619cdacf0409ec82ac9020cdda6c1.jpg,Movida,20220913211639
+1270687,Mobi,Fiat,2022,Vermelho,57710.00,40790.00,35436,,Cuiabá,MT,,,Movida,20220913211639
+1280914,Mobi,Fiat,2022,Prata,57710.00,40790.00,36831,,Goiânia,GO,,,Movida,20220913211639
+1288699,Mobi,Fiat,2022,Branco,57710.00,40790.00,37117,,Florianópolis,SC,,,Movida,20220913211639
+1288828,Mobi,Fiat,2022,Prata,57710.00,40790.00,35013,,Mogi das Cruzes,SP,,,Movida,20220913211639
+1285122,Mobi,Fiat,2022,Prata,57710.00,40790.00,35903,,Caxias do Sul,RS,,,Movida,20220913211639
+1290108,Mobi,Fiat,2022,Cinza,57710.00,40790.00,41241,,Goiânia,GO,,,Movida,20220913211639
+1287278,Mobi,Fiat,2022,Prata,57710.00,40790.00,38238,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287278/707968_0c88c03699e05cf7762d58c59e4e024e.jpg,Movida,20220913211639
+1292225,Mobi,Fiat,2022,Vermelho,57710.00,40790.00,41073,,Goiânia,GO,,,Movida,20220913211639
+1260725,Mobi,Fiat,2022,Branco,57710.00,40790.00,35757,,São Caetano do Sul,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1260725/705579_f34e74457dc3a6bcb803a49112493700.jfif,Movida,20220913211639
+1290168,Mobi,Fiat,2022,Prata,57710.00,40790.00,37523,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290168/728848_2ada7647ca6b20c0a8aed1621d76d1b3.jpg,Movida,20220913211639
+1288570,Mobi,Fiat,2022,Prata,57710.00,40790.00,41184,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288570/709916_7cc9f24d8ec467c7e43445b7e8f8fcde.jpeg,Movida,20220913211639
+1274826,Mobi,Fiat,2022,Prata,57710.00,40790.00,39048,,Jundiaí,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1274826/705674_745da4fd864231b75f759f7ffa55d89a.jpg,Movida,20220913211639
+1278137,Mobi,Fiat,2022,Branco,57710.00,40790.00,36089,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278137/709008_f56b1863212e4e0adbdf0c2d5e25a875.jpg,Movida,20220913211639
+1290797,Mobi,Fiat,2022,Branco,57710.00,40790.00,38338,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290797/722327_3a299acad62be5dbf5d4bfcd8fe5bd3d.jpg,Movida,20220913211639
+1281605,Mobi,Fiat,2022,Branco,57710.00,40790.00,42307,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281605/705560_6b3e2b2576d10542d275852d1ad1fe6c.jpg,Movida,20220913211639
+1289821,Mobi,Fiat,2022,Cinza,57710.00,40790.00,40534,,Goiânia,GO,,,Movida,20220913211639
+1293928,Mobi,Fiat,2022,Branco,57710.00,40790.00,36235,,Várzea Grande,MT,,,Movida,20220913211639
+1274044,Mobi,Fiat,2022,Branco,57710.00,40790.00,40577,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1274044/709016_30a2746fa75cf447a4f0cb30204cadd0.jpg,Movida,20220913211639
+1259172,Mobi,Fiat,2022,Cinza,57710.00,40790.00,40446,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1259172/705777_f9c7e32c964d84f1b689b3310f21735d.jpeg,Movida,20220913211639
+1278125,Mobi,Fiat,2022,Cinza,57710.00,40790.00,42034,,Piracicaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1278125/715656_f2bceb08c95fb015db648e6f12dc43ff.jpeg,Movida,20220913211639
+1294611,Mobi,Fiat,2022,Prata,57710.00,40790.00,36789,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294611/705709_0a7b7a3478c940297c0c1e74d73f25ed.jpg,Movida,20220913211639
+1275957,Mobi,Fiat,2022,Branco,57710.00,40790.00,39886,,São Paulo,SP,,,Movida,20220913211639
+1287978,Mobi,Fiat,2022,Prata,57710.00,40790.00,37053,,São Carlos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287978/705711_4e4822521ea180cec7639da4cb9fac52.jpeg,Movida,20220913211639
+1294425,Mobi,Fiat,2022,Branco,57710.00,40790.00,41061,,Betim,MG,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294425/709720_dd6d1dc69edf1188c1752b120984ba04.jpeg,Movida,20220913211639
+1294909,Mobi,Fiat,2022,Prata,57710.00,40790.00,37346,,Maceió,AL,,,Movida,20220913211639
+1295244,Mobi,Fiat,2022,Branco,57710.00,40790.00,38372,,Recife,PE,,,Movida,20220913211639
+1290497,Mobi,Fiat,2022,Branco,57710.00,40790.00,43334,,Piracicaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290497/709650_2b9a4d4940f23d63304de178a4f5ceba.jpeg,Movida,20220913211639
+1287497,Mobi,Fiat,2022,Branco,57710.00,40790.00,40959,,Santo André,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287497/718816_0e780f55c448a9165c222b1ea3af3280.jpg,Movida,20220913211639
+1293685,Mobi,Fiat,2022,Prata,57710.00,40790.00,36735,,Santo André,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293685/737085_6b286a5dfd89cf69fd89b07511cd1d19.jpg,Movida,20220913211639
+1282948,Mobi,Fiat,2022,Prata,57710.00,40790.00,36000,,Canoas,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1282948/705735_1e228a6137e59b3cbc0496ece8481c4e.jpg,Movida,20220913211639
+1286251,Mobi,Fiat,2022,Branco,57710.00,40790.00,36051,,Canoas,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1286251/709582_e1a9dfc4ce9fcfc57a0a5c0e0bc1f71b.jpg,Movida,20220913211639
+1296424,Mobi,Fiat,2022,Branco,57710.00,40790.00,43507,,Curitiba,PR,,,Movida,20220913211639
+1296251,Mobi,Fiat,2022,Cinza,57710.00,40790.00,35741,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296251/710072_d7558675681337e6f4c0e0fa668939c7.jpg,Movida,20220913211639
+1296402,Mobi,Fiat,2022,Cinza,57710.00,40790.00,40332,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296402/707703_eccc6b4e06e6195183c0a73ceb17d69a.jpg,Movida,20220913211639
+1296462,Mobi,Fiat,2022,Branco,57710.00,40790.00,41547,,Petrolina,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296462/708968_a1a5e06365c636e81be05d0dc8835d9b.jpg,Movida,20220913211639
+1296476,Mobi,Fiat,2022,Cinza,57710.00,40790.00,40037,,Brasília,DF,,,Movida,20220913211639
+1272465,Mobi,Fiat,2022,Prata,57710.00,40790.00,35491,,Goiânia,GO,,,Movida,20220913211639
+1250643,Mobi,Fiat,2022,Branco,57710.00,40790.00,36109,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1250643/709677_9f87eddd32b9563fb79e206d9cfedc7e.jpg,Movida,20220913211639
+1263970,Mobi,Fiat,2022,Branco,57710.00,40790.00,40232,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1263970/709579_20d28705df0bc51dfe5575982bdee0ad.jpg,Movida,20220913211639
+1291493,Mobi,Fiat,2022,Cinza,57710.00,40790.00,35560,,Joinville,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291493/710226_7daa76fb5c360c71548aa111da0d5d69.jpg,Movida,20220913211639
+1294567,Mobi,Fiat,2022,Prata,57710.00,40790.00,38584,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294567/705660_6712cc6e6d8f80892bcc52d8f8422172.jpg,Movida,20220913211639
+1294686,Mobi,Fiat,2022,Branco,57710.00,40790.00,38587,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294686/709656_b3c7f3fc1e6a68120953e5dc24ed01a4.jpeg,Movida,20220913211639
+1296437,Mobi,Fiat,2022,Branco,57710.00,40790.00,40093,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296437/768156_66440d8d7094e2e3410b0a86fda3624e.jpg,Movida,20220913211639
+1293641,Mobi,Fiat,2022,Cinza,57710.00,40790.00,42811,,Rio de Janeiro,RJ,,,Movida,20220913211639
+1287541,Mobi,Fiat,2022,Branco,57710.00,40790.00,40505,,Rio de Janeiro,RJ,,,Movida,20220913211639
+1269564,Mobi,Fiat,2022,Branco,57710.00,40790.00,37480,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1269564/707696_6be19f7340dbbc6a6526d69e61360b3a.jpeg,Movida,20220913211639
+1257048,Mobi,Fiat,2022,Cinza,57710.00,40790.00,38691,,Petrolina,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257048/710098_faf78ddd1e22823bbc1e6587331076ac.jpeg,Movida,20220913211639
+1271802,Mobi,Fiat,2022,Branco,57710.00,40790.00,40438,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1271802/709545_2c9bb7e3be3265a2af13eb76865eb10f.jpg,Movida,20220913211639
+1284943,Mobi,Fiat,2022,Vermelho,57710.00,40790.00,35226,,Guarulhos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1284943/705599_8ec99e8f4195c276d7ab9246293ccaa9.jpg,Movida,20220913211639
+1285193,Mobi,Fiat,2022,Branco,57710.00,40790.00,44622,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285193/709695_8b0c63f0c8530e425f5e493128911eb6.jfif,Movida,20220913211639
+1277728,Mobi,Fiat,2022,Branco,57710.00,40790.00,36451,,Santo André,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1277728/705555_52206aa540637571671923b998c4899f.jpg,Movida,20220913211639
+1276255,Mobi,Fiat,2022,Branco,57710.00,40790.00,40115,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1276255/709715_a45d7b9b9170c59fbeb0dcd637b95c2a.jpeg,Movida,20220913211639
+1257081,Mobi,Fiat,2022,Prata,57710.00,40790.00,43001,,Petrolina,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257081/705621_3d5d2447066b2b7749c7e136df58f0f3.jpeg,Movida,20220913211639
+1266378,Mobi,Fiat,2022,Vermelho,57710.00,40790.00,38794,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266378/728008_3a73b17b22d847f3a9867076974f2898.jpg,Movida,20220913211639
+1252694,Mobi,Fiat,2022,Cinza,57710.00,40790.00,43011,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1252694/708306_fb5460921aefc24643b5749de885d17c.jpg,Movida,20220913211639
+1289775,Mobi,Fiat,2022,Prata,57710.00,40790.00,44921,,Uberlândia,MG,,,Movida,20220913211639
+1291233,Mobi,Fiat,2022,Branco,57710.00,40790.00,40847,,São Luís,MA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291233/724087_3f2d21045f562675f025e8ca77c6446f.jpeg,Movida,20220913211639
+1283811,Mobi,Fiat,2022,Cinza,57710.00,40790.00,40652,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283811/709039_bb88aa8edb531592134ef64055c7b175.jpeg,Movida,20220913211639
+1295744,Mobi,Fiat,2022,Branco,57710.00,40790.00,39954,,Londrina,PR,,,Movida,20220913211639
+1293889,Mobi,Fiat,2022,Prata,57710.00,40790.00,40106,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293889/728871_84c0b522561f4dbe79dc11e3aef6004e.jpg,Movida,20220913211639
+1293906,Mobi,Fiat,2022,Branco,57710.00,40790.00,42995,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293906/708965_bf4c4f91ec85b77a849161a7efc02ddc.jfif,Movida,20220913211639
+1296623,Mobi,Fiat,2022,Prata,57710.00,40790.00,35439,,Natal,RN,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296623/724101_158f75e391811275596664321d3b382f.jpeg,Movida,20220913211639
+1279983,Mobi,Fiat,2022,Prata,57710.00,40790.00,40669,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1279983/705653_fbc6099a103a971b3dd3ed9f9e659a0c.jpg,Movida,20220913211639
+1294550,Mobi,Fiat,2022,Branco,57710.00,40790.00,41482,,São Caetano do Sul,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294550/708947_446db1bbae7cd823fc1acef9e1b8511b.jpeg,Movida,20220913211639
+1294582,Mobi,Fiat,2022,Cinza,57710.00,40790.00,39000,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294582/707985_aa7384184532f79e28d01cd6a50e08b5.jpg,Movida,20220913211639
+1274628,Mobi,Fiat,2022,Branco,57710.00,40790.00,40347,,Barueri,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1274628/722328_79c9aebede87afe4a43642f2bd3a817f.jpg,Movida,20220913211639
+1281537,Mobi,Fiat,2022,Branco,57710.00,40790.00,39829,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281537/721316_059a96eecd5856854d06ec3e45db56a6.jpg,Movida,20220913211639
+1250316,Mobi,Fiat,2022,Prata,57710.00,40790.00,43920,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1250316/707960_d2c7d251288740569232e4d22ae61d68.jpeg,Movida,20220913211639
+1290566,Mobi,Fiat,2022,Branco,57710.00,40790.00,40029,,São José do Rio Preto,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290566/768155_7cee15a5a67b3cc153295f04c769859f.jpg,Movida,20220913211639
+1253795,Mobi,Fiat,2022,Branco,57710.00,40790.00,35612,,São José dos Campos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1253795/722333_55fa1b3ad6a779ce2bb43f4d73453df7.jpg,Movida,20220913211639
+1253794,Mobi,Fiat,2022,Branco,57710.00,40790.00,38871,,São José dos Campos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1253794/705574_9b7e855a5df8ae1c9a5c8c4ca8088b72.jpg,Movida,20220913211639
+1296809,Mobi,Fiat,2022,Cinza,57710.00,40790.00,31498,,Bauru,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296809/708009_f95bdee5a000771e98f6a40f3424f184.jpeg,Movida,20220913211639
+1297188,Mobi,Fiat,2022,Prata,57710.00,40790.00,38617,,Caxias do Sul,RS,,,Movida,20220913211639
+1259162,Mobi,Fiat,2022,Prata,58000.00,40790.00,30567,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1259162/715566_18b128a4b5e2325c8aaa971f0ffee640.jpg,Movida,20220913211639
+1221048,Mobi,Fiat,2022,Vermelho,58000.00,40790.00,30768,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1221048/707706_64a79c2bd865f128666fd73c8f19099d.jpeg,Movida,20220913211639
+1287559,Mobi,Fiat,2022,Prata,58000.00,40790.00,33594,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287559/707942_e60567702be29311c5283581143165b0.jpeg,Movida,20220913211639
+1208244,Mobi,Fiat,2022,Branco,58000.00,40790.00,31117,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1208244/705575_d9cfc3c996d4ad1868d934ddcd9b5b8c.jpg,Movida,20220913211639
+1255608,Mobi,Fiat,2022,Branco,58000.00,40790.00,29260,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1255608/721302_75b1f2316c3290287009c199d13994f7.jpeg,Movida,20220913211639
+1234898,Mobi,Fiat,2022,Branco,58000.00,40790.00,28874,,Santos,SP,,,Movida,20220913211639
+1279687,Mobi,Fiat,2022,Cinza,58580.00,40790.00,30044,,Cuiabá,MT,,,Movida,20220913211639
+1284321,Mobi,Fiat,2022,Cinza,58580.00,40790.00,30246,,Cuiabá,MT,,,Movida,20220913211639
+1288111,Mobi,Fiat,2022,Branco,58580.00,40790.00,28124,,Brasília,DF,,,Movida,20220913211639
+1287127,Mobi,Fiat,2022,Prata,58580.00,40790.00,31316,,Nova Iguaçu,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287127/705644_cf15bae76b1d86d26ea93c56bf28673c.jpeg,Movida,20220913211639
+1260898,Mobi,Fiat,2022,Branco,58580.00,40790.00,33496,,Aparecida de Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1260898/705843_a7bb3d1a546e37a93e76ce9bed124ec4.jpg,Movida,20220913211639
+1292142,Mobi,Fiat,2022,Cinza,58580.00,40790.00,32386,,São Paulo,SP,,,Movida,20220913211639
+1291429,Mobi,Fiat,2022,Cinza,58580.00,40790.00,30482,,Piracicaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291429/707997_21eeb38730bb801d7f6ce46df05b9566.jpeg,Movida,20220913211639
+1262345,Mobi,Fiat,2022,Branco,58580.00,40790.00,27277,,Brasília,DF,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1262345/724746_5336ef45a0471475c30d3c23d7354540.jpg,Movida,20220913211639
+1275708,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,28038,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1275708/715556_05052c4777fbb12f54b90778ed4c3886.jpg,Movida,20220913211639
+1267658,Mobi,Fiat,2022,Preto,58580.00,40790.00,32415,,Piracicaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1267658/707698_ebc3c8ec64b52c889db43785db9c0b19.jpeg,Movida,20220913211639
+1287368,Mobi,Fiat,2022,Branco,58580.00,40790.00,29395,,Campo Grande,MS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287368/709014_22bffcd95c97f83a8ac9700541cad2b3.jpeg,Movida,20220913211639
+1293717,Mobi,Fiat,2022,Branco,58580.00,40790.00,25561,,João Pessoa,PB,,,Movida,20220913211639
+1290447,Mobi,Fiat,2022,Branco,58580.00,40790.00,31433,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290447/709690_abd6a34eca41114f4715ab533ae41dca.jfif,Movida,20220913211639
+1293160,Mobi,Fiat,2022,Prata,58580.00,40790.00,31923,,São Paulo,SP,,,Movida,20220913211639
+1287575,Mobi,Fiat,2022,Branco,58580.00,40790.00,31084,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1287575/709737_ee134bbfd3a55e46982c6f696575690a.jpeg,Movida,20220913211639
+1291296,Mobi,Fiat,2022,Branco,58580.00,40790.00,34448,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1291296/709004_d014f86a68fd1ad261f80784d281992e.jpg,Movida,20220913211639
+1257673,Mobi,Fiat,2022,Prata,58580.00,40790.00,29258,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1257673/707954_421b10c560fe6b548fd820cfc014ebbf.jpeg,Movida,20220913211639
+1260244,Mobi,Fiat,2022,Cinza,58580.00,40790.00,31213,,Goiânia,GO,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1260244/709040_32c14ff2c2a87b70df51153c6378558a.jpg,Movida,20220913211639
+1292115,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,34498,,São Paulo,SP,,,Movida,20220913211639
+1296336,Mobi,Fiat,2022,Prata,58580.00,40790.00,34643,,São José do Rio Preto,SP,,,Movida,20220913211639
+1292422,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,27819,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292422/705596_6cd7d3c48a493fff60ab5920870d1a66.jpg,Movida,20220913211639
+1294224,Mobi,Fiat,2022,Preto,58580.00,40790.00,34752,,Serra,ES,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1294224/711844_3cd50e3109fe8aea9d1d65f3d8d1c82e.jpeg,Movida,20220913211639
+1290895,Mobi,Fiat,2022,Branco,58580.00,40790.00,31621,,São Paulo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290895/712422_ecb96e5e7763c5b65cede1a4371e74f7.jpg,Movida,20220913211639
+1245209,Mobi,Fiat,2022,Branco,58580.00,40790.00,30458,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1245209/727736_041d21a5ba265e630a1b2b93e2b9fa2d.jpg,Movida,20220913211639
+1270100,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,32563,,João Pessoa,PB,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1270100/705612_5005041b2b0a8d855eed29127e38d945.jpg,Movida,20220913211639
+1268772,Mobi,Fiat,2022,Branco,58580.00,40790.00,34837,,Cuiabá,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1268772/709688_da9932b36fb268e347bdfab125f94537.jpeg,Movida,20220913211639
+1292849,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,29322,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292849/736965_2544948e603387444850ff5625b1a616.jpg,Movida,20220913211639
+1262266,Mobi,Fiat,2022,Prata,58580.00,40790.00,32777,,Bauru,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1262266/705697_8634fa4aef8d8ff232d294425a3f40df.jpeg,Movida,20220913211639
+1290723,Mobi,Fiat,2022,Cinza,58580.00,40790.00,28719,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1290723/736988_7475ec0fead0cad1e2bf384fed25f160.jpeg,Movida,20220913211639
+1293321,Mobi,Fiat,2022,Prata,58580.00,40790.00,31198,,São Bernardo do Campo,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293321/728926_c93f0c49854d032a4e53919f70a96692.jfif,Movida,20220913211639
+1288591,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,34089,,Fortaleza,CE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288591/728023_ab0a088eb435fb55ac535a3eb9b7c9cc.jpeg,Movida,20220913211639
+1281538,Mobi,Fiat,2022,Prata,58580.00,40790.00,30061,,Rio de Janeiro,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281538/728881_4186e2a17efd56ceca382712efefbda0.jpg,Movida,20220913211639
+1296578,Mobi,Fiat,2022,Prata,58580.00,40790.00,33749,,Porto Alegre,RS,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296578/708298_70dd0cd761bd35bca70ccc80e6baf14a.jpeg,Movida,20220913211639
+1281641,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,34126,,Belém,PA,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281641/709788_fe06585122bc89e4b216b949c0186e40.jpeg,Movida,20220913211639
+1290176,Mobi,Fiat,2022,Branco,58580.00,40790.00,28632,,São Paulo,SP,,,Movida,20220913211639
+1293571,Mobi,Fiat,2022,Branco,58580.00,40790.00,28884,,Itajaí,SC,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293571/721303_d73238897d0a65a6c82468078d695850.jpg,Movida,20220913211639
+1283511,Mobi,Fiat,2022,Vermelho,58580.00,40790.00,32243,,Osasco,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1283511/711536_b7e920c6afcb00ea7a3830722410b9aa.jpeg,Movida,20220913211639
+1257315,Mobi,Fiat,2022,Branco,58580.00,40790.00,34071,,Fortaleza,CE,,,Movida,20220913211639
+1272181,Mobi,Fiat,2022,Branco,58580.00,40790.00,30775,,Campinas,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1272181/722349_f01c8eb336d2cfb919285494934ccc85.jpg,Movida,20220913211639
+1244010,Mobi,Fiat,2022,Prata,58580.00,40790.00,33655,,Manaus,AM,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1244010/709918_412a77b7e373fd442a2851a7d829079f.jpg,Movida,20220913211639
+1292528,Mobi,Fiat,2022,Prata,58580.00,40790.00,29722,,Campo Grande,MS,,,Movida,20220913211639
+1268782,Mobi,Fiat,2022,Cinza,58580.00,40790.00,30312,,Recife,PE,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1268782/710278_946d08ce61e532a428643ddeebe3a8a8.jpg,Movida,20220913211639
+1266183,Mobi,Fiat,2022,Branco,58580.00,40790.00,28611,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1266183/724136_9d66172cdb9263ac709461e0985d2d96.jpg,Movida,20220913211639
+1288666,Mobi,Fiat,2022,Prata,58580.00,40790.00,28080,,Suzano,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1288666/724122_34f5b6705ed90a5e0b4bf61354f69fc5.jpg,Movida,20220913211639
+1285726,Mobi,Fiat,2022,Preto,58580.00,40790.00,32714,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285726/729784_3e7f214516eb3b1a1a6ba7d1cd6bfd9d.jpg,Movida,20220913211639
+1281658,Mobi,Fiat,2022,Branco,58580.00,40790.00,32728,,Santos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1281658/722320_044eea0ed6e1084ad4041fbe90c0bf5c.jpg,Movida,20220913211639
+1296676,Mobi,Fiat,2022,Branco,58580.00,40790.00,28698,,Rio de Janeiro,RJ,,,Movida,20220913211639
+1270599,Mobi,Fiat,2022,Prata,58580.00,40790.00,31024,,Maringá,PR,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1270599/709922_593dcbe7dc3d750defd3011a5fa64a4b.jpeg,Movida,20220913211639
+1296742,Mobi,Fiat,2022,Prata,58580.00,40790.00,30598,,São Paulo,SP,,,Movida,20220913211639
+1296872,Mobi,Fiat,2022,Branco,58580.00,40790.00,34329,,Guarulhos,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1296872/705578_8c7f22299b49f5331cc2f2b9cab5331e.jpg,Movida,20220913211639
+1297110,Mobi,Fiat,2022,Prata,58580.00,40790.00,29730,,Rio de Janeiro,RJ,,,Movida,20220913211639
+1297165,Mobi,Fiat,2022,Prata,58580.00,40790.00,25221,,Nova Iguaçu,RJ,,,Movida,20220913211639
+1297424,Mobi,Fiat,2022,Prata,58580.00,40790.00,34657,,Niterói,RJ,,,Movida,20220913211639
+1297565,Mobi,Fiat,2022,Prata,58580.00,40790.00,34840,,Fortaleza,CE,,,Movida,20220913211639
+1297634,Mobi,Fiat,2022,Branco,58580.00,40790.00,28066,,Porto Alegre,RS,,,Movida,20220913211639
+1294583,Mobi,Fiat,2022,Prata,59460.00,40790.00,21423,,Belo Horizonte,MG,,,Movida,20220913211639
+1285312,Mobi,Fiat,2022,Vermelho,59460.00,40790.00,19331,,Várzea Grande,MT,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1285312/738565_1cdbf62a0cf4bf41bfefdc9118f6d2c9.jpg,Movida,20220913211639
+1296361,Mobi,Fiat,2022,Preto,59460.00,40790.00,21615,,Piracicaba,SP,,,Movida,20220913211639
+1293595,Mobi,Fiat,2022,Vermelho,59460.00,40790.00,23098,,Niterói,RJ,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1293595/738157_5c1c2a30b4bd3ac0132fd128031a5502.jpeg,Movida,20220913211639
+1292129,Mobi,Fiat,2022,Branco,59460.00,40790.00,20535,,Sorocaba,SP,,https://static.seminovosmovida.com.br/storage_dev/veiculo/1292129/768154_83c2a1ab07bb102b641a9486d2f4881a.jpeg,Movida,20220913211639
+1297429,Mobi,Fiat,2022,Branco,59460.00,40790.00,23037,,São Paulo,SP,,,Movida,20220913211639
